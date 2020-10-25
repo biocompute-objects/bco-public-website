@@ -1,0 +1,87 @@
+baseurl = "/"
+publishDir = "public"
+title = "BioCompute Object"
+author = "BioCompute"
+canonifyurls = true
+languagecode = "en"
+paginate = 3
+theme = "hugo-biocompute"
+
+enableEmoji = true
+hasCJKLanguage = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[params]
+copyright = "© 2018 - 2020 BioCompute. All rights reserved."
+faviconfile = "images/favicon.png"
+posts_navigation = true
+uselatex = false
+highlightjs = false
+highlightjslanguages = ["r"]
+progressively = false
+google_tag_manager = "UA-79911051-3"
+
+# contact = "example@example.com"
+github = "biocompute-objects"
+# twitter = "example"
+# linkedin = "example"
+
+[[menu.primary]]
+identifier = "home"
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.primary]]
+identifier = "news"
+name = "News"
+url = "/news/"
+weight = 2
+
+[[menu.primary]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 3
+
+[[menu.primary]]
+identifier = "services"
+name = "Services"
+url = "/services/"
+weight = 4
+
+[[menu.primary]]
+identifier = "organization"
+name = "Organization"
+url = "/organization/"
+weight = 5
+
+[[menu.primary]]
+identifier = "specification"
+name = "BCO Specification"
+url = "/specification/"
+weight = 6
+
+[[menu.primary]]
+identifier = "resources"
+name = "Resources"
+url = "/resources/"
+weight = 7
+
+[[menu.primary]]
+identifier = "contact"
+name = "Contact"
+url = "/contact/"
+weight = 8
+
+[[menu.primary]]
+identifier = "events"
+name = "Events"
+url = "/events/"
+weight = 9
