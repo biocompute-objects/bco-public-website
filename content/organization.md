@@ -1,8 +1,6 @@
 ---
 title: "Organization"
 menu: "main"
-aliases:
-    - /organization.html
 ---
 
 <div class="col-lg-6 offset-lg-3 text-center">

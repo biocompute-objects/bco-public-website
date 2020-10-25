@@ -1,8 +1,6 @@
 ---
 title: "Contact"
 menu: "main"
-aliases:
-    - /contact.php
 ---
 
 <div class="col-lg-6 offset-lg-3 text-center">

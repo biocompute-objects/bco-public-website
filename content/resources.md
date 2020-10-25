@@ -1,8 +1,6 @@
 ---
 title: "Resources"
 menu: "main"
-aliases:
-    - /resources.html
 ---
 
 <div class="col-lg-6 offset-lg-3 text-center">

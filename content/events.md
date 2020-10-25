@@ -1,8 +1,6 @@
 ---
 title: "Events"
 menu: "main"
-aliases:
-    - /events.html
 ---
 
 <div class="col-lg-8 offset-lg-2 text-center">
