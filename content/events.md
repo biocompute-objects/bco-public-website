@@ -17,7 +17,7 @@ To register for a BioCompute Informational Session (15 minute WebEx) click [here
 
 ## Upcoming Workshops
 
-#### November 2020: Introduction to workflow portability with BCO-CWL
+#### November 2020: Introduction to workflow portability with BCO-CWL [11-20-20]
 
 **Date**: Friday November 20th at 12-2PM ET
 
