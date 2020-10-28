@@ -11,7 +11,7 @@ menu: "main"
 
 ### BioCompute Organizational Layout
 
-Two non-overlapping entities work in parallel to help drive BioCompute, the [IEEE 2791-2020 Standard](https://standards.ieee.org/project/2791.html), and a Public Private Partnership. [Leadership](https://www.biocomputeobject.org/leadership.html) for the [Public Private Partnership](https://www.biocomputeobject.org/ppp.html) consists of an Executive Steering Committee and a Technical Steering Committee. The schema that is referenced by the current draft of the IEEE standard is maintained by an [IEEE GitLab repository](https://opensource.ieee.org/2791-object/ieee-2791-schema).
+Two non-overlapping entities work in parallel to help drive BioCompute, the [IEEE 2791-2020 Standard](https://standards.ieee.org/project/2791.html), and a Public Private Partnership. [Leadership](/leadership) for the [Public Private Partnership](https://www.biocomputeobject.org/ppp.html) consists of an Executive Steering Committee and a Technical Steering Committee. The schema that is referenced by the current draft of the IEEE standard is maintained by an [IEEE GitLab repository](https://opensource.ieee.org/2791-object/ieee-2791-schema).
 
 <div class="col-lg-10 offset-lg-1 text-center">
 <img src="/images/organization.2.png" class="img-fluid mx-auto d-block" alt="">
