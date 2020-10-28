@@ -15,7 +15,7 @@ FDA announces support for BioCompute! The July 22nd, 2020 edition of the Federal
 
 **June 24th, 2020**
 
-BioCompute training for FDA Reviewers and administrators took place today virtually. The workshop introduced the core concepts of BioCompute, terminology, and walked through usage examples in the context of regulatory submission filings, taken from sample use cases organized with FDA Reviewers. The training was constructed with input from advisory boards, and was focused on receiving a BCO as part of a regulatory filing, rather than technical details. What kinds of information is included in a BCO, where to find relevant information in certain scenarios, and ways to use additional optional fields to include or ask for more information were presented. Supplemental training material like the [quick reference guide](https://biocomputeobject.org/BCOCheatSheet.pdf) (PDF) was also provided.
+BioCompute training for FDA Reviewers and administrators took place today virtually. The workshop introduced the core concepts of BioCompute, terminology, and walked through usage examples in the context of regulatory submission filings, taken from sample use cases organized with FDA Reviewers. The training was constructed with input from advisory boards, and was focused on receiving a BCO as part of a regulatory filing, rather than technical details. What kinds of information is included in a BCO, where to find relevant information in certain scenarios, and ways to use additional optional fields to include or ask for more information were presented. Supplemental training material like the [quick reference guide](/docs/BCOCheatSheet.pdf) (PDF) was also provided.
 
 **May 14th, 2020**
 
