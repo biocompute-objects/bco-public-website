@@ -15,9 +15,11 @@ To register for a BioCompute Informational Session (15 minute WebEx) click [here
 
 <br>
 
-## Upcoming Workshops
+## <a name="upcoming"></a>Upcoming Workshops
 
-#### <a name="11-20-20"></a> November 2020: Introduction to workflow portability with BCO-CWL 
+### November 2020
+
+### <a name="11-20-20"></a>Introduction to workflow portability with BCO-CWL 
 
 **Date**: Friday November 20th at 12-2PM ET
 
@@ -29,9 +31,9 @@ To register for a BioCompute Informational Session (15 minute WebEx) click [here
 
 ## Previous Workshops
 
-## 2020
+### 2020
 
-#### March 2020 BioCompute Advisory Boards Workshop
+#### <a name="03-18-20"></a>BioCompute Advisory Boards Workshop
 
 **Date**: Wednesday March 18, 2020 2-4pm ET
 
@@ -39,29 +41,44 @@ To register for a BioCompute Informational Session (15 minute WebEx) click [here
 
 <br>
 
-#### June 2020 BioCompute Workshop for Reviewers: Tool for Communicating Sequencing Analysis
+#### <a name="06-24-20"></a>BioCompute Workshop for Reviewers: Tool for Communicating Sequencing Analysis
 
 **Date**: Wednesday June 24, 2020 10am-12pm ET
 
 **Purpose**: The purpose of this workshop is to facilitate dialogue and show BCO utility specifically for FDA reviewers. We will be briefly discussing BioCompute applications, vocabulary, current + future progression of the project in addition to a hands-on approach to reviewing a BCO for. These discussions are a means to introduce BCO as a tool for submission evaluation mechanism obtain feedback.
 
-- _Slide deck available [here](https://biocomputeobject.org/ReviewerWorkshop_24June2020_Deck.pdf)_
-- _Quick reference guide can be found [here](https://www.biocomputeobject.org/BCOCheatSheet.pdf) (PDF)_
+- _Slide deck available [here](/docs/ReviewerWorkshop_24June2020_Deck.pdf)_
+- _Quick reference guide can be found [here](/docs/BCOCheatSheet.pdf) (PDF)_
 - _Post-workshop attendee survey available [here](https://www.surveymonkey.com/r/Q9LXSC6)_
 
 <br>
 
-#### September 2020 [BioCompute Objects: Methods for communicating provenance of data and analysis](https://www.biocuration.org/biocuration-2020-online-workshops/)
+#### <a name="09-24-20"></a>BioCompute Objects: Methods for communicating provenance of data and analysis 
 
-Biocuration 2020 Thursday September 24th at 12:00 ET
+> Part of the [Biocuration 2020 Online Workshop](https://www.biocuration.org/biocuration-2020-online-workshops/) series
+
+**Date:** Thursday September 24, 9am PT, 12pm ET, 5pm CET
+
+**Organizers:** Charles Hadley King, Raja Mazumder, Jonathon Keeney; George Washington University
+
+**Purpose:** Inform about BioCompute Object use and purpose and offer tutelage in the creation and use of BCOs
+
+ - Abstract available [here](https://drive.google.com/file/d/1aYdfM6Ph2eJ9a1-1s96vFyiFQGkCtmsY/view)
 
 <br>
 
 ## 2019
 
-#### [BioCompute Objects: Tools for Communicating NGS Data and Analysis](https://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/biocompute-objects-tools-communicating-ngs-data-and-analysis-public-workshop-05142019-05152019)
+#### <a name="05-14-19"></a>BioCompute Objects: Tools for Communicating NGS Data and Analysis 
 
-Agenda [here](https://www.biocomputeobject.org/2019-workshop-agenda.html)
+**Date:** Tuesday May 14, 2019
+
+**Organizers:** [FDA Center for Biologics Evaluation and Research (CBER)](https://www.fda.gov/about-fda/fda-organization/center-biologics-evaluation-and-research-cber)
+
+**Purpose:** The BioCompute project has resulted in three prior workshops, two publications, several collaborations, and is currently undergoing formal balloting to become an official IEEE standard. The upcoming Workshop will engage more stakeholders in creating and using BioCompute for NGS and other bioinformatics data analysis communications with the FDA. Specifically, the Workshop will have two components: use case examples, and hands on & demonstrations of new tools that leverage BioCompute. A new Precision FDA-BioCompute Challenge will also be launched at the event.
+
+- Agenda [here](/2019-workshop-agenda.md)
+- Meeting info [here]((https://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/biocompute-objects-tools-communicating-ngs-data-and-analysis-public-workshop-05142019-05152019))
 
 <br>
 
