@@ -19,8 +19,8 @@ BioCompute is governed by an [Executive Steering Committee](#esc), which engages
 
 <div class="col-lg-4">
 	
-<div class="text-center">
-<img src="/images/Mazumder.png" class="mx-auto d-block" width="30%" alt="">
+<div class="text-justify">
+<img src="/images/Mazumder.png" class="mx-auto d-block" width="80%" alt="Raja Mazumder">
 <br>
 Raja Mazumder (Chair)<br>
 <span class=leadershipsubtitlecn>
@@ -37,11 +37,12 @@ Raja Mazumder (Chair)<br>
 Dr. Mazumder is an Associate Professor of Biochemistry and Molecular Medicine and Co-Director of The McCormick Genomic Proteomic Center at The George Washington University (GW). While working at National Center for Biotechnology Information (NCBI) at NIH, UniProt and Protein Information Resource (PIR), Dr. Mazumder worked closely with colleagues in developing international molecular biology resources and using these resources to identify therapeutics, diagnostics and vaccines targets. Through NIH, NSF, FDA and industry funding he is currently involved in genomic and bioinformatics research in cancer biology, glycobiology, metagenomics and NGS standards development. Dr. Mazumder is the PD/PI of High Performance Integrated Virtual Environment (HIVE). HIVE is approved for use in a regulatory environment at US FDA. In addition to his research activities he mentors Ph.D. and M.S. students and directs the Bioinformatics M.S. graduate program track at GW. Dr. Mazumder is a <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5510742/">Co-author of the first BioCompute publication</a>.
 </span>
 </div>
+
 </div>
 
 <div class="col-lg-4">
-<div class="text-center">
-	<img src="/images/Goble.png" class="mx-auto d-block" width="30%" alt=""><br>
+<div class="text-justify">
+	<img src="/images/Goble.png" class="mx-auto d-block" width="80%" alt=""><br>
 Carole Goble<br>
 <b>Professor of Computer Science, University of Manchester</b><br>
 </span>
@@ -69,8 +70,8 @@ She is leading activities in European e-Infrastructure for Life Sciences includi
 
 <div class="col-lg-4">
 	
-<div class="text-center">
-<img src="/images/Alterovitz.png" class="mx-auto d-block" width="30%" alt="">
+<div class="text-justify">
+<img src="/images/Alterovitz.png" class="mx-auto d-block" width="80%" alt="">
 <br>
 Gil Alterovitz<br>
 <b>Director at VA. AI. Biomedical informatics</b>
@@ -98,8 +99,8 @@ Dr. Alterovitz brings to the program his unique expertise in the development of 
 
 <div class="col-lg-4">
 	
-<div class="text-center">
-<img src="/images/Simonyan.png" class="mx-auto d-block" width="30%" alt="">
+<div class="text-justify">
+<img src="/images/Simonyan.png" class="mx-auto d-block" width="80%" alt="">
 <br>
 <span class=leadershipsubtitlecn>
 Vahan Simonyan<br>
@@ -126,8 +127,8 @@ Currently, Dr. Simonyan is the Senior Director of Bioinformatics at CRISPR Thera
 
 <div class="col-lg-4">
 	
-<div class="text-center">
-<img src="/images/Dean.png" class="mx-auto d-block" width="30%" alt="">
+<div class="text-justify">
+<img src="/images/Dean.png" class="mx-auto d-block" width="80%" alt="">
 <br>
 Dennis Dean<br>
 <span class=leadershipsubtitlecn>
@@ -154,8 +155,8 @@ Dr. Dean trained as a research fellow in medicine at the Harvard Medical School 
 
 <div class="col-lg-4">
 	
-<div class="text-center">
-<img src="/images/Goecks.png" class="mx-auto d-block" width="30%" alt="">
+<div class="text-justify">
+<img src="/images/Goecks.png" class="mx-auto d-block" width="80%" alt="">
 <br>
 <span class=leadershipsubtitlecn>
 Jeremy Goecks<br>
@@ -183,8 +184,8 @@ Jeremy is an expert in computational biomedicine and has made contributions in m
 
 <div class="col-lg-4">
 	
-<div class="text-center">
-<img src="/images/Keeney.png" class="mx-auto d-block" width="30%" alt="">
+<div class="text-justify">
+<img src="/images/Keeney.png" class="mx-auto d-block" width="80%" alt="">
 <br>
 Jonathon Keeney, Managing Director<br>
 <span class=leadershipsubtitlecn>
