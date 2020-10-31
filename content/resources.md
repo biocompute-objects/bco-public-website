@@ -17,12 +17,12 @@ Publicly available resources developed by the BioCompute community include:
 
 ### BCO Documentation
 
-- The [BCO SOP](https://www.biocomputeobject.org/BCO_SOP.html) provides guidance on BCO creation, versioning, and certification.
-- The [BCO User Manual](https://www.biocomputeobject.org/BCO_UserManual.html) provides guidance on BCO evaluation.
+- The [BCO SOP](/BCO_SOP) provides guidance on BCO creation, versioning, and certification.
+- The [BCO User Manual](/BCO_UserManual) provides guidance on BCO evaluation.
 
 ### BCO Editor
 
-- The [BCO Editor](https://portal.aws.biochemistry.gwu.edu/) is a form based creation tool for generating BioCompute Objects. The BCO Editor contains built-in linting and conformance against the current BioCompute specification. The BCO Editor includes a database of created BCOs. Unless specified in the embargo field, BCOs in the database are viewable to the general public. Legacy Editor site can be found [here](https://www.biocomputeobject.org/bco_editor_tst/).
+- The [BCO Editor](https://portal.aws.biochemistry.gwu.edu/) is a form based creation tool for generating BioCompute Objects. The BCO Editor contains built-in linting and conformance against the current BioCompute specification. The BCO Editor includes a database of created BCOs. Unless specified in the embargo field, BCOs in the database are viewable to the general public.
 
 ### Software Packages
 
@@ -38,13 +38,13 @@ Publicly available resources developed by the BioCompute community include:
 
 ### BCO "Cheat Sheet"
 
-- A [quick reference guide](https://www.biocomputeobject.org/BCOCheatSheet.pdf) (PDF) for getting up to speed with reading a BCO.
+- A [quick reference guide](/BCOCheatSheet) (PDF) for getting up to speed with reading a BCO.
 
 ### Platform Specific Tools
 
 #### HIVE
 
-The High-throughput Integrated Virtual Environment ([HIVE](https://hive.biochemistry.gwu.edu/dna.cgi?cmd=main)) for genome analysis and the widely used, open source Galaxy project both have platform specific tools for generating BioCompute Objects from workflows. Both of these can be found via the [landing page](https://www.biocomputeobject.org/landing.html).
+The High-throughput Integrated Virtual Environment ([HIVE](https://hive.biochemistry.gwu.edu/dna.cgi?cmd=main)) for genome analysis and the widely used, open source Galaxy project both have platform specific tools for generating BioCompute Objects from workflows. Both of these can be found on our [home page](/#tools).
 
 #### Cancer Genomics Cloud
 

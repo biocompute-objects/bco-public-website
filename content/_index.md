@@ -25,7 +25,7 @@ The open source repository for the project can be accessed [here](https://openso
 
 <br>
 
-### Cloud-based tools for working with BioCompute
+### <a name="tools"></a>Cloud-based tools for working with BioCompute
 
 See the [resources](https://www.biocomputeobject.org/resources.html) page for additional resources.
 

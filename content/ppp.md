@@ -1,11 +1,13 @@
 ---
-title: "Organization"
+title: "PPP"
 menu: "main"
 ---
 
 <div class="col-lg-6 offset-lg-3 text-center">
 <img src="/images/ppp.png" class="img-fluid mx-auto d-block" width="75%" alt="">
 </div>
+
+<br><br>
 
 The BioCompute community is comprised of several groups and individuals from regulatory, academia, and private industry that have contributed to the concept, development, testing, and/or feedback of the BioCompute project. The first formal structure to take shape is the Public Private Partnership, which focuses on the application of the IEEE standard. (Note that the PPP is not responsible for the development of the IEEE standard. The standard was developed by the P2791 Working Group, and the difference between these two is explained [here](/organization).
 
