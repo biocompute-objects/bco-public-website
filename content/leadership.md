@@ -39,9 +39,6 @@ Dr. Mazumder is an Associate Professor of Biochemistry and Molecular Medicine an
 </div>
 </div>
 
-
-<div class="row">
-
 <div class="col-lg-4">
 <div class="text-center">
 	<img src="/images/Goble.png" class="mx-auto d-block" width="30%" alt=""><br>
@@ -70,8 +67,6 @@ She is leading activities in European e-Infrastructure for Life Sciences includi
 </div>
 </div>
 
-<div class="row">
-
 <div class="col-lg-4">
 	
 <div class="text-center">
@@ -95,6 +90,8 @@ Dr. Alterovitz is Assistant Professor at Harvard Medical School and core faculty
 <p>
 Dr. Alterovitz brings to the program his unique expertise in the development of novel, interdisciplinary approaches in computational genomic and proteomics for biomedicine. He is PI of the TBResist Consortium, an international collaboration across 20 countries to collect and analyze genetic/phenotypic data on drug resistant tuberculosis using standardized analyses.  He also led the creation of the genomics portion of FHIR (SMART/FHIR Genomics) to standardize communication of clinical genomic information.  His work develops and applies integrative genomics via informatics. As a PI on a number of institutional projects he has excelled at managing international teams and yielding actionable, translational results from his research. Dr. Alterovitz has published over 60 peer-reviewed publications and has collaborated with investigators worldwide on his research endeavors.</span>
 </div>
+</div>
+
 </div>
 
 <div class="row">
@@ -127,8 +124,6 @@ Currently, Dr. Simonyan is the Senior Director of Bioinformatics at CRISPR Thera
 </div>
 </div>
 
-<div class="row">
-
 <div class="col-lg-4">
 	
 <div class="text-center">
@@ -157,8 +152,6 @@ Dr. Dean trained as a research fellow in medicine at the Harvard Medical School 
 </div>
 </div>
 
-<div class="row">
-
 <div class="col-lg-4">
 	
 <div class="text-center">
@@ -182,6 +175,8 @@ Jeremy Goecks<br>
 Jeremy is an expert in computational biomedicine and has made contributions in many areas of bioinformatics and computational science, including genome and proteome analysis methods, cancer informatics, scientific computing infrastructure, machine learning, and user interfaces and visualization. He has more than 15 years of computational science experience and has spent the last 10 years developing algorithms, software, and infrastructure for biomedical data science. Jeremy is a lead investigator for the Galaxy platform (<a href="http://galaxyproject.org">http://galaxyproject.org</a>), a Web-based system for analyzing biomedical data that is used by thousands of scientists throughout the world. As a lead Galaxy investigator, he participates in Galaxy at all levels: strategic planning, architecting scalable systems for large analysis projects, leading the development of new software components, and implementing and benchmarking best-practice analysis pipelines. Jeremy directs informatics for precision oncology at Oregon Health and Science University (OHSU). In this work, he leads a team developing computational systems for processing, storing, modeling, and visualizing clinical, imaging, and omics data for (1) treating cancer using combination therapies adapted over time; and (2) discovering and understanding mechanisms of resistance and priming in cancer. He is PI/co-PI on several resource and research grants for NCI, NHGRI, and NSF focused on genome informatics, cancer informatics, and precision oncology. Dr. Goecks is a <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5510742/">co-author of the first BioCompute publication</a>.</span>
 
 </div>
+</div>
+
 </div>
 
 <div class="row">
@@ -211,6 +206,8 @@ Cognitive Disability Fellow, and a student at Woods Hole Marine Biological Labor
 <p>
 Dr. Keeney has also worked in the private sector as a Technical Specialist for a patent law firm in Denver, Colorado, as a startup cofounder, and as Director of Complex Visualization for a medical device company. He has been an invited author to a live discussion with Digg Dialog, and a judge for a startup pitch competition. During this time, he maintained strong connections to academia, and assisted with the establishment and development of three different public private partnerships. He brings experience in both the academic and private sectors in his current role, in which he leads multiple initiatives. Most notably, Dr. Keeney currently drives the creation of a public-private partnership around BioCompute, leads the development of the BioCompute project into a <a href="http://sites.ieee.org/sagroups-2791/">formal IEEE standard</a>, and serves as the Managing Director for the Executive Steering Committee of the BioCompute Partnership. In this role, he leads project outreach, coordinates workshops with the high throughput sequencing and broader communities, and moderates discussion in both the public and private spaces to make BioCompute meet the needs of all stakeholders.
 </div>
+</div>
+
 </div>
 
 ## <a name="tsc"></a>The Technical Steering Committee of the BioCompute Partnership
