@@ -4,7 +4,7 @@ menu: "main"
 ---
 
 <div class="col-lg-6 offset-lg-3 text-center">
-<img src="/images/logo.about.png" class="img-fluid mx-auto d-block" width="75%" alt="">
+<img src="../static/images/logo.about.png" class="img-fluid mx-auto d-block" width="75%" alt="">
 </div>
 
 <br>
@@ -17,10 +17,10 @@ BioCompute is governed by an [Executive Steering Committee](#esc), which engages
 
 <div class="row">
 
-<div class="col-lg-4">
+<div class="col-sm-4">
 	
-<div class="text-justify">
-<img src="/images/Mazumder.png" class="mx-auto d-block" width="80%" alt="Raja Mazumder">
+<div class="text-left">
+<img src="../static/images/Mazumder.png" class="mx-auto d-block" width="80%" alt="Raja Mazumder">
 <br>
 Raja Mazumder (Chair)<br>
 <span class=leadershipsubtitlecn>
@@ -42,9 +42,9 @@ Dr. Mazumder is an Associate Professor of Biochemistry and Molecular Medicine an
 
 </div>
 
-<div class="col-lg-4">
-<div class="text-justify">
-	<img src="/images/Goble.png" class="mx-auto d-block" width="80%" alt=""><br>
+<div class="col-sm-4">
+<div class="text-left">
+	<img src="../static/images/Goble.png" class="mx-auto d-block" width="80%" alt=""><br>
 Carole Goble<br>
 <b>Professor of Computer Science, University of Manchester</b><br>
 </span>
@@ -68,10 +68,10 @@ She is leading activities in European e-Infrastructure for Life Sciences includi
 </div>
 </div>
 
-<div class="col-lg-4">
+<div class="col-sm-4">
 	
-<div class="text-justify">
-<img src="/images/Alterovitz.png" class="mx-auto d-block" width="80%" alt="">
+<div class="text-left">
+<img src="../static/images/Alterovitz.png" class="mx-auto d-block" width="80%" alt="">
 <br>
 Gil Alterovitz<br>
 <b>Director at VA. AI. Biomedical informatics</b>
@@ -97,10 +97,10 @@ Dr. Alterovitz brings to the program his unique expertise in the development of 
 
 <div class="row">
 	
-<div class="col-lg-4">
+<div class="col-sm-4">
 	
-<div class="text-justify">
-<img src="/images/Simonyan.png" class="mx-auto d-block" width="80%" alt="">
+<div class="text-left">
+<img src="../static/images/Simonyan.png" class="mx-auto d-block" width="80%" alt="">
 <br>
 <span class=leadershipsubtitlecn>
 Vahan Simonyan<br>
@@ -125,10 +125,10 @@ Currently, Dr. Simonyan is the Senior Director of Bioinformatics at CRISPR Thera
 
 </div>
 
-<div class="col-lg-4">
+<div class="col-sm-4">
 	
-<div class="text-justify">
-<img src="/images/Dean.png" class="mx-auto d-block" width="80%" alt="">
+<div class="text-left">
+<img src="../static/images/Dean.png" class="mx-auto d-block" width="80%" alt="">
 <br>
 Dennis Dean<br>
 <span class=leadershipsubtitlecn>
@@ -151,10 +151,10 @@ Dr. Dean trained as a research fellow in medicine at the Harvard Medical School 
 </div>
 </div>
 
-<div class="col-lg-4">
+<div class="col-sm-4">
 	
-<div class="text-justify">
-<img src="/images/Goecks.png" class="mx-auto d-block" width="80%" alt="">
+<div class="text-left">
+<img src="../static/images/Goecks.png" class="mx-auto d-block" width="80%" alt="">
 <br>
 <span class=leadershipsubtitlecn>
 Jeremy Goecks<br>
@@ -180,10 +180,10 @@ Jeremy is an expert in computational biomedicine and has made contributions in m
 
 <div class="row">
 
-<div class="col-lg-4">
+<div class="col-sm-4">
 	
-<div class="text-justify">
-<img src="/images/Keeney.png" class="mx-auto d-block" width="80%" alt="">
+<div class="text-left">
+<img src="../static/images/Keeney.png" class="mx-auto d-block" width="80%" alt="">
 <br>
 Jonathon Keeney, Managing Director<br>
 <span class=leadershipsubtitlecn>
@@ -209,3 +209,165 @@ Dr. Keeney has also worked in the private sector as a Technical Specialist for a
 </div>
 
 ## <a name="tsc"></a>The Technical Steering Committee of the BioCompute Partnership
+
+<div class="row">
+
+<div class="col-sm-3">
+	
+<div class="text-left">
+<img src="../static/images/King.png" class="mx-auto d-block" width="80%" alt="Charles Hadley King">
+<br>
+Charles Hadley King (Chair)
+</span>
+<br>
+<span>
+<small>
+<i>BioCompute Project Technical Lead</i><br>
+</small>
+<b>Senior Research Associate, HIVE Lab, George Washington University</b><br>
+</span>
+</span>
+</div>
+
+</div>
+
+<div class="col-sm-3">
+	
+<div class="text-left">
+<img src="../static/images/Almeida.jpg" class="mx-auto d-block" width="80%" alt="Jonas Almeida">
+<br>
+Jonas Almeida<br>
+<b>Chief Data Scientist for the Division of Cancer Epidemiology and Genetics, National Cancer Institute</b><br>
+</div>
+</div>
+
+<div class="col-sm-3">
+	
+<div class="text-left">
+<img src="../static/images/Taylor.jpg" class="mx-auto d-block" width="80%" alt="Dan Taylor">
+<br>
+Dan Taylor<br>
+<span class=leadershipsubtitlecn>
+<b>Director, Internet2</b><br>
+</span>
+</div>
+</div>
+
+<div class="col-sm-3">
+	
+<div class="text-left">
+<img src="../static/images/Golikov.jpg" class="mx-auto d-block" width="80%" alt="Anton Golikov">
+<br>
+Anton Golikov<br>
+<span class=leadershipsubtitlecn>
+<b>Systems Architect for the Center for Biologics Evaluation and Research, FDA</b><br>
+</span>
+</div>
+</div>
+
+</div>
+
+<div class="row">
+
+<div class="col-sm-3">
+	
+<div class="text-left">
+<img src="../static/images/Krampis.jpg" class="mx-auto d-block" width="80%" alt="Ntino Krampis">
+<br>
+Ntino Krampis<br>
+<span class=leadershipsubtitlecn>
+<b>Associate Professor and Director of Bioinformatics, CUNY</b><br>
+</span>
+</div>
+</div>
+
+<div class="col-sm-3">
+	
+<div class="text-left">
+<img src="../static/images/Crusoe.jpg" class="mx-auto d-block" width="80%" alt="Michael Crusoe">
+<br>
+Michael Crusoe<br>
+<span class=leadershipsubtitlecn>
+<b>Co-founder and Project Lead, Common Workflow Language</b><br>
+</span>
+</div>
+</div>
+
+<div class="col-sm-3">
+	
+<div class="text-left">
+<img src="../static/images/Soiland-Reyes.jpg" class="mx-auto d-block" width="80%" alt="Stian Soiland-Reyes">
+<br>
+Stian Soiland-Reyes<br>
+<span class=leadershipsubtitlecn>
+<b>Technical Architect, eScience Lab, The University of Manchester, UK.</br>
+BioExcel Centre of Excellence for Computational Biomolecular Research.</b><br>
+</span>
+</div>
+</div>
+
+<div class="col-sm-3">
+	
+<div class="text-left">
+<img src="../static/images/Karagiannis.jpg" class="mx-auto d-block" width="80%" alt="Konstantinos Karagiannis">
+<br>
+Konstantinos Karagiannis<br>
+<span class=leadershipsubtitlecn>
+<b>FDA</b><br>
+</span>
+</div>
+</div>
+
+</div>
+
+<div class="row">
+
+<div class="col-sm-3">
+	
+<div class="text-left">
+<img src="../static/images/Thompson.jpg" class="mx-auto d-block" width="80%" alt="Elaine Thompson">
+<br>
+Elaine Thompson<br>
+<span class=leadershipsubtitlecn>
+<b>Program Manager IV, Henry M. Jackson Foundation for the Advancement of Military Medicine</b><br>
+</span>
+</div>
+</div>
+
+<div class="col-sm-3">
+	
+<div class="text-left">
+<img src="../static/images/Soranzo.jpg" class="mx-auto d-block" width="80%" alt="Nicola Soranzo">
+<br>
+Nicola Soranzo<br>
+<span class=leadershipsubtitlecn>
+<b>Galaxy Platform Development Officer</b><br>
+</span>
+</div>
+</div>
+
+<div class="col-sm-3">
+	
+<div class="text-left">
+<img src="../static/images/Travis.jpg" class="mx-auto d-block" width="80%" alt="Jason Travis">
+<br>
+Jason Travis<br>
+<span class=leadershipsubtitlecn>
+<b></b><br>
+</span>
+</div>
+</div>
+
+<div class="col-sm-3">
+	
+<div class="text-left">
+<img src="../static/images/Patel.jpg" class="mx-auto d-block" width="80%" alt="Janisha Patel">
+<br>
+Janisha Patel<br>
+<span class=leadershipsubtitlecn>
+<b>Bioinformatics Associate, HIVE Lab, George Washington University</b><br>
+</span>
+</div>
+</div>
+
+</div>
