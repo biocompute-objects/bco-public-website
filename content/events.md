@@ -75,12 +75,10 @@ To register for a BioCompute Informational Session (15 minute WebEx) click [here
 
 **Organizers:** [FDA Center for Biologics Evaluation and Research (CBER)](https://www.fda.gov/about-fda/fda-organization/center-biologics-evaluation-and-research-cber)
 
-[Meeting info]((https://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/biocompute-objects-tools-communicating-ngs-data-and-analysis-public-workshop-05142019-05152019))
-
-
 **Purpose:** The BioCompute project has resulted in three prior workshops, two publications, several collaborations, and is currently undergoing formal balloting to become an official IEEE standard. The upcoming Workshop will engage more stakeholders in creating and using BioCompute for NGS and other bioinformatics data analysis communications with the FDA. Specifically, the Workshop will have two components: use case examples, and hands on & demonstrations of new tools that leverage BioCompute. A new Precision FDA-BioCompute Challenge will also be launched at the event.
 
-- Agenda [here](./2019-workshop-agenda.md)
+- Agenda [here](/2019-workshop-agenda.md)
+Meeting info [here](https://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/biocompute-objects-tools-communicating-ngs-data-and-analysis-public-workshop-05142019-05152019)
 
 <br>
 
