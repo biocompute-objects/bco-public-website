@@ -4,7 +4,7 @@ menu: "main"
 ---
 
 <div class="col-lg-6 offset-lg-3 text-center">
-<img src="../static/images/logo.about.png" class="img-fluid mx-auto d-block" width="75%" alt="">
+<img src="/images/logo.about.png" class="img-fluid mx-auto d-block" width="75%" alt="">
 </div>
 
 <br>
@@ -20,7 +20,7 @@ BioCompute is governed by an [Executive Steering Committee](#esc), which engages
 <div class="col-sm-4">
 	
 <div class="text-left">
-<img src="../static/images/Mazumder.png" class="mx-auto d-block" width="80%" alt="Raja Mazumder">
+<img src="/images/Mazumder.png" class="mx-auto d-block" width="80%" alt="Raja Mazumder">
 <br>
 Raja Mazumder (Chair)<br>
 <span class=leadershipsubtitlecn>
@@ -44,7 +44,7 @@ Dr. Mazumder is an Associate Professor of Biochemistry and Molecular Medicine an
 
 <div class="col-sm-4">
 <div class="text-left">
-	<img src="../static/images/Goble.png" class="mx-auto d-block" width="80%" alt=""><br>
+	<img src="/images/Goble.png" class="mx-auto d-block" width="80%" alt=""><br>
 Carole Goble<br>
 <b>Professor of Computer Science, University of Manchester</b><br>
 </span>
@@ -71,7 +71,7 @@ She is leading activities in European e-Infrastructure for Life Sciences includi
 <div class="col-sm-4">
 	
 <div class="text-left">
-<img src="../static/images/Alterovitz.png" class="mx-auto d-block" width="80%" alt="">
+<img src="/images/Alterovitz.png" class="mx-auto d-block" width="80%" alt="">
 <br>
 Gil Alterovitz<br>
 <b>Director at VA. AI. Biomedical informatics</b>
@@ -100,7 +100,7 @@ Dr. Alterovitz brings to the program his unique expertise in the development of 
 <div class="col-sm-4">
 	
 <div class="text-left">
-<img src="../static/images/Simonyan.png" class="mx-auto d-block" width="80%" alt="">
+<img src="/images/Simonyan.png" class="mx-auto d-block" width="80%" alt="">
 <br>
 <span class=leadershipsubtitlecn>
 Vahan Simonyan<br>
@@ -128,7 +128,7 @@ Currently, Dr. Simonyan is the Senior Director of Bioinformatics at CRISPR Thera
 <div class="col-sm-4">
 	
 <div class="text-left">
-<img src="../static/images/Dean.png" class="mx-auto d-block" width="80%" alt="">
+<img src="/images/Dean.png" class="mx-auto d-block" width="80%" alt="">
 <br>
 Dennis Dean<br>
 <span class=leadershipsubtitlecn>
@@ -154,7 +154,7 @@ Dr. Dean trained as a research fellow in medicine at the Harvard Medical School 
 <div class="col-sm-4">
 	
 <div class="text-left">
-<img src="../static/images/Goecks.png" class="mx-auto d-block" width="80%" alt="">
+<img src="/images/Goecks.png" class="mx-auto d-block" width="80%" alt="">
 <br>
 <span class=leadershipsubtitlecn>
 Jeremy Goecks<br>
@@ -183,7 +183,7 @@ Jeremy is an expert in computational biomedicine and has made contributions in m
 <div class="col-sm-4">
 	
 <div class="text-left">
-<img src="../static/images/Keeney.png" class="mx-auto d-block" width="80%" alt="">
+<img src="/images/Keeney.png" class="mx-auto d-block" width="80%" alt="">
 <br>
 Jonathon Keeney, Managing Director<br>
 <span class=leadershipsubtitlecn>
@@ -215,7 +215,7 @@ Dr. Keeney has also worked in the private sector as a Technical Specialist for a
 <div class="col-sm-3">
 	
 <div class="text-left">
-<img src="../static/images/King.png" class="mx-auto d-block" width="80%" alt="Charles Hadley King">
+<img src="/images/King.png" class="mx-auto d-block" width="80%" alt="Charles Hadley King">
 <br>
 Charles Hadley King (Chair)
 </span>
@@ -234,7 +234,7 @@ Charles Hadley King (Chair)
 <div class="col-sm-3">
 	
 <div class="text-left">
-<img src="../static/images/Almeida.jpg" class="mx-auto d-block" width="80%" alt="Jonas Almeida">
+<img src="/images/Almeida.jpg" class="mx-auto d-block" width="80%" alt="Jonas Almeida">
 <br>
 Jonas Almeida<br>
 <b>Chief Data Scientist for the Division of Cancer Epidemiology and Genetics, National Cancer Institute</b><br>
@@ -244,7 +244,7 @@ Jonas Almeida<br>
 <div class="col-sm-3">
 	
 <div class="text-left">
-<img src="../static/images/Taylor.jpg" class="mx-auto d-block" width="80%" alt="Dan Taylor">
+<img src="/images/Taylor.jpg" class="mx-auto d-block" width="80%" alt="Dan Taylor">
 <br>
 Dan Taylor<br>
 <span class=leadershipsubtitlecn>
@@ -256,7 +256,7 @@ Dan Taylor<br>
 <div class="col-sm-3">
 	
 <div class="text-left">
-<img src="../static/images/Golikov.jpg" class="mx-auto d-block" width="80%" alt="Anton Golikov">
+<img src="/images/Golikov.jpg" class="mx-auto d-block" width="80%" alt="Anton Golikov">
 <br>
 Anton Golikov<br>
 <span class=leadershipsubtitlecn>
@@ -272,7 +272,7 @@ Anton Golikov<br>
 <div class="col-sm-3">
 	
 <div class="text-left">
-<img src="../static/images/Krampis.jpg" class="mx-auto d-block" width="80%" alt="Ntino Krampis">
+<img src="/images/Krampis.jpg" class="mx-auto d-block" width="80%" alt="Ntino Krampis">
 <br>
 Ntino Krampis<br>
 <span class=leadershipsubtitlecn>
@@ -284,7 +284,7 @@ Ntino Krampis<br>
 <div class="col-sm-3">
 	
 <div class="text-left">
-<img src="../static/images/Crusoe.jpg" class="mx-auto d-block" width="80%" alt="Michael Crusoe">
+<img src="/images/Crusoe.jpg" class="mx-auto d-block" width="80%" alt="Michael Crusoe">
 <br>
 Michael Crusoe<br>
 <span class=leadershipsubtitlecn>
@@ -296,7 +296,7 @@ Michael Crusoe<br>
 <div class="col-sm-3">
 	
 <div class="text-left">
-<img src="../static/images/Soiland-Reyes.jpg" class="mx-auto d-block" width="80%" alt="Stian Soiland-Reyes">
+<img src="/images/Soiland-Reyes.jpg" class="mx-auto d-block" width="80%" alt="Stian Soiland-Reyes">
 <br>
 Stian Soiland-Reyes<br>
 <span class=leadershipsubtitlecn>
@@ -309,7 +309,7 @@ BioExcel Centre of Excellence for Computational Biomolecular Research.</b><br>
 <div class="col-sm-3">
 	
 <div class="text-left">
-<img src="../static/images/Karagiannis.jpg" class="mx-auto d-block" width="80%" alt="Konstantinos Karagiannis">
+<img src="/images/Karagiannis.jpg" class="mx-auto d-block" width="80%" alt="Konstantinos Karagiannis">
 <br>
 Konstantinos Karagiannis<br>
 <span class=leadershipsubtitlecn>
@@ -325,7 +325,7 @@ Konstantinos Karagiannis<br>
 <div class="col-sm-3">
 	
 <div class="text-left">
-<img src="../static/images/Thompson.jpg" class="mx-auto d-block" width="80%" alt="Elaine Thompson">
+<img src="/images/Thompson.jpg" class="mx-auto d-block" width="80%" alt="Elaine Thompson">
 <br>
 Elaine Thompson<br>
 <span class=leadershipsubtitlecn>
@@ -337,7 +337,7 @@ Elaine Thompson<br>
 <div class="col-sm-3">
 	
 <div class="text-left">
-<img src="../static/images/Soranzo.jpg" class="mx-auto d-block" width="80%" alt="Nicola Soranzo">
+<img src="/images/Soranzo.jpg" class="mx-auto d-block" width="80%" alt="Nicola Soranzo">
 <br>
 Nicola Soranzo<br>
 <span class=leadershipsubtitlecn>
@@ -349,7 +349,7 @@ Nicola Soranzo<br>
 <div class="col-sm-3">
 	
 <div class="text-left">
-<img src="../static/images/Travis.jpg" class="mx-auto d-block" width="80%" alt="Jason Travis">
+<img src="/images/Travis.jpg" class="mx-auto d-block" width="80%" alt="Jason Travis">
 <br>
 Jason Travis<br>
 <span class=leadershipsubtitlecn>
@@ -361,7 +361,7 @@ Jason Travis<br>
 <div class="col-sm-3">
 	
 <div class="text-left">
-<img src="../static/images/Patel.jpg" class="mx-auto d-block" width="80%" alt="Janisha Patel">
+<img src="/images/Patel.jpg" class="mx-auto d-block" width="80%" alt="Janisha Patel">
 <br>
 Janisha Patel<br>
 <span class=leadershipsubtitlecn>
