@@ -60,16 +60,13 @@ Carole Goble<br>
 <br>
 <span>
 Professor Carole Goble CBE FREng FBCS CITP is Professor of Computer Science at The University of Manchester, UK. Over the past 25 years she has pursued research interests in the acceleration of scientific innovation through: distributed computing, workflows and automation; knowledge management and the Semantic Web; social, virtual environments; software engineering for scientific software; and new models of scholarship for data-intensive science. Since 2001 she has directed a large, mixed team of researchers, computational scientists and software engineers that specialize in e-Science. She is responsible for many widely used open source e-Science software and she has been a strong advocate for putting software innovations into real practice. She co-founded the UK's Open Middleware Infrastructure Institute and the Software Sustainability Institute UK.
+
 She is leading activities in European e-Infrastructure for Life Sciences including Head of the UK's ELIXIR Node, ExCo of the ELIXIR Interoperability Platform; data/model management lead of the ESFRI's IBISBA and ISBE, coordinator of the FAIRDOM and Research Object initiatives and partner in the BioExcel Centre of Excellence. In 2008 she was awarded the Microsoft Jim Gray e-Science award for contributions to e-Science. Carole received a CBE in the Queen's New Years Honors 2014 for Services to Science.
 </span>
 
 </div>
 </div>
 
-</div>
-
-<div class="row">
-	
 <div class="col-lg-4">
 	
 <div class="text-justify">
@@ -91,10 +88,15 @@ Gil Alterovitz<br>
 <span>
 Dr. Alterovitz is Assistant Professor at Harvard Medical School and core faculty at the Computational Health Informatics Program at Boston Children's Hospital. He received his PhD in Electrical and Biomedical Engineering at MIT through the Harvard/MIT Division of Health Sciences and Technology.
 
-Dr. Alterovitz brings to the program his unique expertise in the development of novel, interdisciplinary approaches in computational genomic and proteomics for biomedicine. He is PI of the TBResist Consortium, an international collaboration across 20 countries to collect and analyze genetic/phenotypic data on drug resistant tuberculosis using standardized analyses.  He also led the creation of the genomics portion of FHIR (SMART/FHIR Genomics) to standardize communication of clinical genomic information.  His work develops and applies integrative genomics via informatics. As a PI on a number of institutional projects he has excelled at managing international teams and yielding actionable, translational results from his research. Dr. Alterovitz has published over 60 peer-reviewed publications and has collaborated with investigators worldwide on his research endeavors.</span>
+Dr. Alterovitz brings to the program his unique expertise in the development of novel, interdisciplinary approaches in computational genomic and proteomics for biomedicine. He is PI of the TBResist Consortium, an international collaboration across 20 countries to collect and analyze genetic/phenotypic data on drug resistant tuberculosis using standardized analyses.  He also led the creation of the genomics portion of FHIR (SMART/FHIR Genomics) to standardize communication of clinical genomic information.  His work develops and applies integrative genomics via informatics. As a PI on a number of institutional projects he has excelled at managing international teams and yielding actionable, translational results from his research. Dr. Alterovitz has published over 60 peer-reviewed publications and has collaborated with investigators worldwide on his research endeavors.
+</span>
 </div>
 </div>
 
+</div>
+
+<div class="row">
+	
 <div class="col-lg-4">
 	
 <div class="text-justify">
@@ -123,10 +125,6 @@ Currently, Dr. Simonyan is the Senior Director of Bioinformatics at CRISPR Thera
 </div>
 
 </div>
-
-</div>
-
-<div class="row">
 
 <div class="col-lg-4">
 	
