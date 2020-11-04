@@ -4,7 +4,7 @@ menu: "main"
 ---
 
 <div class="col-lg-6 offset-lg-3 text-center">
-<img src="../static/images/logo.regulatory.png" class="img-fluid mx-auto d-block" width="75%" alt="">
+<img src="/images/logo.regulatory.png" class="img-fluid mx-auto d-block" width="75%" alt="">
 </div>
 
 
