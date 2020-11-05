@@ -19,7 +19,7 @@ Publicly available resources developed by the BioCompute community include:
 
 - The [BCO SOP](/BCO_SOP) provides guidance on BCO creation, versioning, and certification.
 - The [BCO User Manual](/BCO_UserManual) provides guidance on BCO evaluation.
-- The [BCO RO Tutorial](https://biocompute-objects.github.io/bco-ro-crate/) shows how a BCO can be packaged/archived/transmitted/described as an RO-Crate Research Object, using a running [example of a Nextflow workflow](github.com/biocompute-objects/bco-ro-example-chipseq).
+- The [BCO RO Tutorial](https://biocompute-objects.github.io/bco-ro-crate/) shows how a BCO can be packaged/archived/transmitted/described as an RO-Crate Research Object, using a running [example of a Nextflow workflow](github.com/biocompute-objects/bco-ro-example-chipseq). **Work in progress**
 
 ### BCO Editor
 
