@@ -31,11 +31,11 @@ The IEEE Standards Association (IEEE SA) has officially approved P2791 for publi
 
 **January 8th, 2020**
 
-The Review Committee (RevCom) for the Institute of Electrical and Electronics Engineers (IEEE) voted to recommend approving P2791, the proposed standard that embodies the BioCompute specification. The [specification](https://www.biocomputeobject.org/specification.html) is an open source document (viewable [here](https://gitlab.com/IEEE-SA/2791/ieee-2791-schema)) that describes the propsed standard, and the vote to approve is major milestone in the project's development. The next step is for the Standards Association (IEEE SA) to vote on the proposed standard based on this recommendation. In the event that it is approved, P2791 will become a formal, IEEE recognized standard!
+The Review Committee (RevCom) for the Institute of Electrical and Electronics Engineers (IEEE) voted to recommend approving P2791, the proposed standard that embodies the BioCompute specification. The [specification](/specification) is an open source document (viewable [here](https://gitlab.com/IEEE-SA/2791/ieee-2791-schema)) that describes the propsed standard, and the vote to approve is major milestone in the project's development. The next step is for the Standards Association (IEEE SA) to vote on the proposed standard based on this recommendation. In the event that it is approved, P2791 will become a formal, IEEE recognized standard!
 
 **October 18th, 2019**
 
-The BCO Challenge on PrecisionFDA has closed. Reviewers are currently evaluating both the beginner and advanced tracks, and will report their top performers on the [PrecisionFDA website](https://precision.fda.gov/). Congratulations to all who participated, and thank you for helping to build the BioCompute project!
+The BCO Challenge on PrecisionFDA has closed. Reviewers are currently evaluating both the beginner and advanced tracks, and will report their top performers on the [PrecisionFDA website](https://precision.fda.gov/challenges/7/view/results). Congratulations to all who participated, and thank you for helping to build the BioCompute project!
 
 **September 23rd, 2019**
 
@@ -51,11 +51,11 @@ The [2019 BioCompute Workshop](https://www.fda.gov/vaccines-blood-biologics/work
 
 **March 27th, 2019**
 
-We're excited to announce that a proposal to expand BioCompute usage through the development of BCOs in a cloud computing environment for Galaxy [has been accepted by the National Science Foundation](https://www.internet2.edu/news/detail/17078/)! The proposal will create a library of BCOs describing bioinformatic workflows on Amazon Web Services through the open source platform [Galaxy](https://galaxy.aws.biochemistry.gwu.edu/). The proposal is part of Internet2's cooperative agreement with the National Science Foundation, called [Exploring Clouds for Acceleration of Science Project](https://www.nsf.gov/news/news_summ.jsp?cntn_id=297193).
+We're excited to announce that a proposal to expand BioCompute usage through the development of BCOs in a cloud computing environment for Galaxy [has been accepted by the National Science Foundation](https://internet2.edu/cloud/exploring-clouds-for-acceleration-of-science/e-cas-research-projects/)! The proposal will create a library of BCOs describing bioinformatic workflows on Amazon Web Services through the open source platform [Galaxy](https://galaxy.aws.biochemistry.gwu.edu/). The proposal is part of Internet2's cooperative agreement with the National Science Foundation, called [Exploring Clouds for Acceleration of Science Project](https://www.nsf.gov/news/news_summ.jsp?cntn_id=297193).
 
 **March 7th, 2019**
 
-The 2019 BioCompute Workshop registration site is live! The United States Food and Drug Administration (FDA) has partnered with the George Washington University [to host](https://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/biocompute-objects-tools-communicating-ngs-data-and-analysis-public-workshop-05142019-05152019) the 4th BioCompute Workshop. More details can be found [on the FDA's website](https://www.fda.gov/BiologicsBloodVaccines/NewsEvents/WorkshopsMeetingsConferences/ucm632914.htm). To register, please visit the [registration page](https://www.eventbrite.com/e/2019-biocompute-workshop-tickets-56204133075?ref=estw).
+The 2019 BioCompute Workshop registration site is live! The United States Food and Drug Administration (FDA) has partnered with the George Washington University [to host](https://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/biocompute-objects-tools-communicating-ngs-data-and-analysis-public-workshop-05142019-05152019) the 4th BioCompute Workshop. More details can be found [on the FDA's website](https://www.fda.gov/BiologicsBloodVaccines/NewsEvents/WorkshopsMeetingsConferences/ucm632914.htm).
 
 **February 28th, 2019**
 
@@ -75,11 +75,11 @@ The [P2791 Working Group](http://sites.ieee.org/sagroups-2791/) to build an IEEE
 
 **October 1st, 2018**
 
-In order to explore the possibility of joining the Open Source Pilot Project, the BioCompute IEEE Working Group (P2791) meeting originally scheduled for October 5th has been postponed to October 22nd, 2018, at 1PM Eastern. The meeting will be held by WebEx at that time, and can be joined by following [this link](https://gwu.webex.com/gwu/onstage/g.php?MTID=e1dcf36fd4f6175f65f3917003af7e637), using access code 738 256 812. This meeting is open to the public.
+In order to explore the possibility of joining the Open Source Pilot Project, the BioCompute IEEE Working Group (P2791) meeting originally scheduled for October 5th has been postponed to October 22nd, 2018, at 1PM Eastern. The meeting will be held by WebEx at that time. This meeting is open to the public.
 
 **September 19th, 2018**
 
-2019 BioCompute Workshop announced! The next BioCompute Workshop will be held on March 25th, 2019 at the FDA's White Oak campus. A Scientific Advisory Board will be formed and convened to discuss the agenda and speakers. As more information becomes available, it will be posted here and on [the OSF website](https://osf.io/h59uh/).
+2019 BioCompute Workshop announced! The next BioCompute Workshop will be held on March 25th, 2019 at the FDA's White Oak campus. A Scientific Advisory Board will be formed and convened to discuss the agenda and speakers.
 
 **September 11th, 2018**
 

@@ -21,13 +21,13 @@ BioCompute is a [standardized](https://standards.ieee.org/content/ieee-standards
 
 The main citations for BioCompute are: [Biocompute Objects-A Step towards Evaluation and Validation of Biomedical Scientific Computations](https://pubmed.ncbi.nlm.nih.gov/27974626/) and [Enabling precision medicine via standard communication of HTS provenance, analysis, and results](https://pubmed.ncbi.nlm.nih.gov/30596645/).
 
-The open source repository for the project can be accessed [here](https://opensource.ieee.org/2791-object/ieee-2791-schema). Several tools have been developed to read or write an analysis as a BCO. The most popular ones are below. Other resources can be found [here](https://biocomputeobject.org/resources.html).
+The open source repository for the IEEE Standard can be accessed [here](https://opensource.ieee.org/2791-object/ieee-2791-schema). Several tools have been developed to read or write an analysis as a BCO. Other resources can be found [here](/resources).
 
 <br>
 
 ### <a name="tools"></a>Cloud-based tools for working with BioCompute
 
-See the [resources](https://www.biocomputeobject.org/resources.html) page for additional resources.
+See our [resources](/resources) page for additional tools and services.
 
 <div class="row">
 
@@ -53,7 +53,7 @@ Use HIVE, the High-Performance Integrated Virtual Environment, on AWS. HIVE is a
 <br>
 </div>
 
-Use the BCO Portal on AWS, a platform-free, form-based editor. The portal walks a user through building a BCO through drop down menus and text boxes, indicating which entries are required to adhere to the IEEE standard. Legacy Editor site can be found [here](https://www.biocomputeobject.org/bco_editor_tst/).
+Use the BCO Portal on AWS, a platform-free, form-based editor. The portal walks a user through building a BCO through drop down menus and text boxes, indicating which entries are required to adhere to the IEEE standard.
 
 </div>
 
