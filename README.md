@@ -3,7 +3,7 @@
 This repo hosts the source code for a Hugo-based prototype of [biocomputeobject.org](https://www.biocomputeobject.org/).
 
 Notes:
-
+- Netlify site: https://condescending-leakey-26b782.netlify.app/
 Source
 - All Markdown files are under /contents
 
