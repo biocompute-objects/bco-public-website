@@ -341,7 +341,7 @@ Elaine Thompson<br>
 <br>
 Nicola Soranzo<br>
 <span class=leadershipsubtitlecn>
-<b>Galaxy Platform Development Officer</b><br>
+<b>Galaxy Platform Development Officer, Earlham Institute</b><br>
 </span>
 </div>
 </div>
