@@ -4,8 +4,11 @@ This repo hosts the source code for a Hugo-based prototype of [biocomputeobject.
 
 Notes:
 - Netlify site: https://condescending-leakey-26b782.netlify.app/
+
 Source
-- All Markdown files are under /contents
+- All Markdown files are under [/contents](/contents)
+- All images are in [/static/images](/static/images)
+- All documents and attachments are under [/static/docs](/static/docs)
 
 Hosting
 - The current static website hosting solution is Netlify.
