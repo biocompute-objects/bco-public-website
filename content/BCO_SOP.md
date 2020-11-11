@@ -1,5 +1,5 @@
 ---
-title: "Resources"
+title: "BCO SOP"
 menu: "main"
 ---
 
