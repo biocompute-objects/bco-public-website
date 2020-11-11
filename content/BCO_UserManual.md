@@ -1,5 +1,5 @@
 ---
-title: "BCO UserManual"
+title: "BCO User Manual"
 menu: "main"
 ---
 
