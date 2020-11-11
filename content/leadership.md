@@ -78,8 +78,8 @@ Gil Alterovitz<br>
 <span>
 <small>
 
-<i>Director, Biomedical Cybernetics</i><br>
-<i>Core member, Children's Hospital Informatics Program</i><br>
+<i>Director of Artificial Intelligence</i><br>
+<i>US Dept of Veterans Affairs</i><br>
 <i>Co-chair, HL7 Genomics workgroup, Clino/pheno co-lead, "Data Exchange and Interoperability" subgroup, The Global Alliance for Genomics and Health (GA4GH)</i><br>
 </small>
 </span>
@@ -87,8 +87,8 @@ Gil Alterovitz<br>
 <br>
 
 <span><small>
-Dr. Alterovitz is Assistant Professor at Harvard Medical School and core faculty at the Computational Health Informatics Program at Boston Children's Hospital. He received his PhD in Electrical and Biomedical Engineering at MIT through the Harvard/MIT Division of Health Sciences and Technology.
-Dr. Alterovitz brings to the program his unique expertise in the development of novel, interdisciplinary approaches in computational genomic and proteomics for biomedicine. He is PI of the TBResist Consortium, an international collaboration across 20 countries to collect and analyze genetic/phenotypic data on drug resistant tuberculosis using standardized analyses.  He also led the creation of the genomics portion of FHIR (SMART/FHIR Genomics) to standardize communication of clinical genomic information.  His work develops and applies integrative genomics via informatics. As a PI on a number of institutional projects he has excelled at managing international teams and yielding actionable, translational results from his research. Dr. Alterovitz has published over 60 peer-reviewed publications and has collaborated with investigators worldwide on his research endeavors.
+Prof. Gil Alterovitz has published over 70 peer-reviewed publications and has collaborated with a diversity of experts worldwide on research endeavors. His research focuses on network and knowledge-based analytical approaches to identify and integrate biomedical relationships at multiple scales. Dr. Gil Alterovitz is on faculty at Harvard Medical School in the Department of Medicine and directs the Biomedical Cybernetics Laboratory at the Brigham and Women’s Hospital.
+Dr. Alterovitz was named the inaugural Director of Artificial Intelligence at the U.S. Department of Veterans Affairs. Based in the Office of Research and Development, Dr. Gil Alterovitz has worked on leveraging health information for AI as well as building AI research and development capacity, including via the National Artificial Intelligence Institute that began in 2019 at the VA. Dr. Alterovitz was one of the core authors of the U.S. National AI R&D Strategic Plan in 2019.
 </small></span>
 </div>
 </div>
