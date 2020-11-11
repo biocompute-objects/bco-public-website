@@ -1,5 +1,5 @@
 ---
-title: "Events"
+title: "2019 Workshop"
 menu: "main"
 ---
 
