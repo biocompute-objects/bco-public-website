@@ -371,3 +371,19 @@ Janisha Patel<br>
 </div>
 
 </div>
+
+<div class="row">
+
+<div class="col-sm-3">
+
+<div class="text-left">
+<img src="/images/Xiao.jpg" class="mx-auto d-block" width="80%" alt="Ntino Krampis">
+<br>
+Nan Xiao<br>
+<span class=leadershipsubtitlecn>
+<b>Associate Principal Scientist, Biostatistics at Merck</b><br>
+</span>
+</div>
+</div>
+
+</div>
