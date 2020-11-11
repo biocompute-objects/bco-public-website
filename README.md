@@ -2,14 +2,13 @@
 
 This repo hosts the source code for a Hugo-based prototype of [biocomputeobject.org](https://www.biocomputeobject.org/).
 
-Deployed prototype: https://condescending-leakey-26b782.netlify.app/
-
-Source code: https://github.com/biocompute-objects/bco-public-website
-
 Notes:
+- Netlify site: https://condescending-leakey-26b782.netlify.app/
 
 Source
-- All Markdown files are under /contents
+- All Markdown files are under [/contents](/contents)
+- All images are in [/static/images](/static/images)
+- All documents and attachments are under [/static/docs](/static/docs)
 
 Hosting
 - The current static website hosting solution is Netlify.
@@ -26,12 +25,3 @@ Content
 
 URL
 - Changed to the RESTful style. Old urls with the .html extension will be automatically redirected
-
-Action items if we decide to eventually migrate:
-
- 1) Fix some expired links in the content
- 2) Migrate other additional artifacts from the original site (if any)
- 3) Move the source code to a GitHub repo under the account @biocompute-objects
- 4) Set up the new site on the hosting provider of choice
- 5) Update the DNS name record and point to the hosting provider
- 6) Retire the original server
