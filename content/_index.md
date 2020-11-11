@@ -40,7 +40,7 @@ See our [resources](/resources) page for additional tools and services.
 <br>
 </div>
 
-Use HIVE, the High-Performance Integrated Virtual Environment, on AWS. HIVE is a cloud-based environment optimized for the storage and analysis of extra-large data, such as biomedical data, clinical data, next-generation sequencing (NGS) data, mass spectrometry files, confocal microscopy images, post-market surveillance data, medical recall data, and many others.
+Access AWS HIVE, the High-Performance Integrated Virtual Environment, on AWS. HIVE is a cloud-based environment optimized for the storage and analysis of extra-large data, such as biomedical data, clinical data, next-generation sequencing (NGS) data, mass spectrometry files, confocal microscopy images, post-market surveillance data, medical recall data, and many others.
 
 </div>
 
