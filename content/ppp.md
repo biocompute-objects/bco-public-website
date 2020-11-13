@@ -19,40 +19,5 @@ The mission of the Public Private Partnership is to:
  - Facilitate portability of pipelines for execution.
  
 ### Current members
-<div class="row">
 
-<div class="col-lg-4">Argentys</div>
-
-<div class="col-lg-4">Embleema</div>
-
-<div class="col-lg-4">Millipore Sigma</div>
-
-<div class="col-lg-4">Open Health Systems Laboratory (OHSL)</div>
-
-</div>
-<div class="row">
-
-<div class="col-lg-3">
-
-<a href="http://argentys.com/"><img src="/images/logo.Argentys.png " class="img-fluid mx-auto d-block" height="50px" alt="">
-
-</div>
-
-<div class="col-lg-3">
-
-<a href="https://embleema.com/"><img src="/images/logo.Embleema.png " class="img-fluid mx-auto d-block" height="50px" alt="">
-
-</div>
-
-<div class="col-lg-3">
-
-<a href="https://www.sigmaaldrich.com/united-states.html"><img src="/images/logo.MilliporeSigma.png " class="img-fluid mx-auto d-block" height="50px" alt="">
-
-</div>
-
-<div class="col-lg-3">
-
-<a href="https://ohsl.us/"><img src="/images/logo.OpenHealthSystemsLaboratory.png" class="img-fluid mx-auto d-block" height="50px" alt="">
-
-</div></div>
-
+| Argentys | Embleema | Millipore Sigma | Open Health Systems Laboratory (OHSL) | <a href="http://argentys.com/"><img src="../static/images/logo.Argentys.png " class="img-fluid mx-auto d-block" height="50px" alt=""> | <a href="https://embleema.com/"><img src="../static/images/logo.Embleema.png " class="img-fluid mx-auto d-block" height="50px" alt=""> | <a href="https://www.sigmaaldrich.com/united-states.html"><img src="../static/images/logo.MilliporeSigma.png " class="img-fluid mx-auto d-block" height="50px" alt=""> | <a href="https://ohsl.us/"><img src="../static/images/logo.OpenHealthSystemsLaboratory.png" class="img-fluid mx-auto d-block" height="50px" alt=""> |
