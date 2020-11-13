@@ -20,4 +20,6 @@ The mission of the Public Private Partnership is to:
  
 ### Current members
 
-| Argentys | Embleema | Millipore Sigma | Open Health Systems Laboratory (OHSL) | <a href="http://argentys.com/"><img src="../static/images/logo.Argentys.png " class="img-fluid mx-auto d-block" height="50px" alt=""> | <a href="https://embleema.com/"><img src="../static/images/logo.Embleema.png " class="img-fluid mx-auto d-block" height="50px" alt=""> | <a href="https://www.sigmaaldrich.com/united-states.html"><img src="../static/images/logo.MilliporeSigma.png " class="img-fluid mx-auto d-block" height="50px" alt=""> | <a href="https://ohsl.us/"><img src="../static/images/logo.OpenHealthSystemsLaboratory.png" class="img-fluid mx-auto d-block" height="50px" alt=""> |
+| Argentys | Embleema | Millipore Sigma | Open Health Systems Laboratory (OHSL)|
+| :-------------: | :----------: | :-----------: | :-----------: |
+|  <a href="http://argentys.com/"><img src="../static/images/logo.Argentys.png " class="img-fluid mx-auto d-block" height="50px" alt=""> | <a href="https://embleema.com/"><img src="../static/images/logo.Embleema.png " class="img-fluid mx-auto d-block" height="50px" alt=""> | <a href="https://www.sigmaaldrich.com/united-states.html"><img src="../static/images/logo.MilliporeSigma.png " class="img-fluid mx-auto d-block" height="50px" alt=""> | <a href="https://ohsl.us/"><img src="../static/images/logo.OpenHealthSystemsLaboratory.png" class="img-fluid mx-auto d-block" height="50px" alt=""> |
