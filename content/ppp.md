@@ -31,7 +31,7 @@ Argentys
 
 <div class="col-lg-3">
 
-<a href="https://embleema.com/"><img src="/images/logo.Embleema.png " class="img-fluid mx-auto d-block" width="150px" alt="">
+<a href="https://embleema.com/"><img src="/images/logo.Embleema.png " class="img-fluid mx-auto d-block" height="50px" alt="">
 
 Embleema
 
@@ -39,7 +39,7 @@ Embleema
 
 <div class="col-lg-3">
 
-<a href="https://www.sigmaaldrich.com/united-states.html"><img src="/images/logo.MilliporeSigma.png " class="img-fluid mx-auto d-block" width="150px" alt="">
+<a href="https://www.sigmaaldrich.com/united-states.html"><img src="/images/logo.MilliporeSigma.png " class="img-fluid mx-auto d-block" height="50px" alt="">
 
 Millipore Sigma
 
@@ -47,7 +47,7 @@ Millipore Sigma
 
 <div class="col-lg-3">
 
-<a href="https://ohsl.us/"><img src="/images/logo.OpenHealthSystemsLaboratory.png" class="img-fluid mx-auto d-block" width="150px" alt="">
+<a href="https://ohsl.us/"><img src="/images/logo.OpenHealthSystemsLaboratory.png" class="img-fluid mx-auto d-block" height="50px" alt="">
 
 Open Health Systems Laboratory (OHSL)
 
