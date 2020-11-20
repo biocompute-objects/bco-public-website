@@ -13,8 +13,6 @@ Welcome! This is the BioCompute Events page. 2020 workshops are listed on the sc
 
 <br>
 
-<div class="row">
-
 <div class="col-lg-9">
 	
 ## <a name="upcoming"></a>Upcoming Workshops
@@ -102,6 +100,4 @@ Agenda [here](https://hive.biochemistry.gwu.edu/htscsrs/agenda_2018)
     dnt="true">
   Tweets by BioComputeObj</a> 
   <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
-
 </div>
