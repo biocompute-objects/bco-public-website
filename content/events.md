@@ -9,12 +9,14 @@ menu: "main"
 
 <br>
 
-Welcome! This is the BioCompute Events page. 2020 workshops are listed on the schedule below. For any questions or comments please email [Janisha Patel](mailto:janishapatel@gwu.edu).
-
-To register for a BioCompute Informational Session (15 minute WebEx) click [here](https://forms.gle/MSXxoEKbTS9CueVa9).
+Welcome! This is the BioCompute Events page. 2020 workshops are listed on the schedule below. For any questions, comments, or for a BioCompute Informational Session (15 minute WebEx) click [here](https://forms.gle/MSXxoEKbTS9CueVa9).
 
 <br>
 
+<div class="row">
+
+<div class="col-lg-9">
+	
 ## <a name="upcoming"></a>Upcoming Workshops
 
 ### November 2020
@@ -87,3 +89,19 @@ To register for a BioCompute Informational Session (15 minute WebEx) click [here
 #### [BioCompute Objects PoC Workshop](https://hive.biochemistry.gwu.edu/htscsrs/workshop_2018)
 
 Agenda [here](https://hive.biochemistry.gwu.edu/htscsrs/agenda_2018)
+</div>
+
+<div class="col-lg-3">
+	
+<a class="twitter-timeline" 
+  href="https://twitter.com/BioComputeObj?ref_src=twsrc%5Etfw" 
+    data-height="2500"
+    show-replies="true"
+    data-chrome="nofooter"
+    data-chrome="noheader"
+    dnt="true">
+  Tweets by BioComputeObj</a> 
+  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
+</div>
