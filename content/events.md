@@ -24,7 +24,7 @@ Welcome! This is the BioCompute Events page. 2020 workshops are listed on the sc
 
 <br> -->
 
-<h2>Previous Workshops</h2>
+<h2 style="text-align:left">Previous Workshops</h2>
 
 <h3>2020</h3>
 
