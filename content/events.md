@@ -15,8 +15,9 @@ Welcome! This is the BioCompute Events page. 2020 workshops are listed on the sc
 
 <div class="row">
 
-<div class="col-lg-9" markdown="1">
-	
+<div class="col-lg-9">
+
+<span style="display:block" class="note">	
 <!-- <h2><a name="upcoming"></a>Upcoming Workshops</h2>
 
 <h3>November 2020</h3>
@@ -83,13 +84,13 @@ Welcome! This is the BioCompute Events page. 2020 workshops are listed on the sc
 - Agenda [here](/2019-workshop-agenda.md)
 - Meeting info [here](https://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/biocompute-objects-tools-communicating-ngs-data-and-analysis-public-workshop-05142019-05152019)
 
-<br>
-
 ## 2018
 
 #### [BioCompute Objects PoC Workshop](https://hive.biochemistry.gwu.edu/htscsrs/workshop_2018)
 
 Agenda [here](https://hive.biochemistry.gwu.edu/htscsrs/agenda_2018)
+
+</span>
 
 </div>
 
