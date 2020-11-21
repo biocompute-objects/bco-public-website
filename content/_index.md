@@ -66,7 +66,7 @@ Use the BCO Portal on AWS, a platform-free, form-based editor. The portal walks 
 <br>
 </div>
 
-Use Galaxy on AWS, the open source, web-based platform for data intensive biomedical research. Assemble your pipeline in the workspace, designate the outputs in the module boxes, and record the entire pipeline as a BCO.
+Use Galaxy on AWS, the open source, web-based platform for data intensive biomedical research. Assemble your [pipeline](/about) in the workspace, designate the outputs in the module boxes, and record the entire pipeline as a BCO.
 
 </div>
 
