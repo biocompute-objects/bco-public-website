@@ -17,14 +17,14 @@ Welcome! This is the BioCompute Events page. 2020 workshops are listed on the sc
 
 <div class="col-lg-9">
 	
-<!-- <h2 style="h2><a name="upcoming"></a>Upcoming Workshops</h2>
+<!-- <h2><a name="upcoming"></a>Upcoming Workshops</h2>
 
 <h3>November 2020</h3>
 
 
 <br> -->
 
-## Previous Workshops
+<h2>Previous Workshops</h2>
 
 <h3>2020</h3>
 
@@ -70,7 +70,7 @@ Welcome! This is the BioCompute Events page. 2020 workshops are listed on the sc
 
 <br>
 
-<h2 style="h2>2019<h2 style="h2>
+<h2>2019<h2>
 
 <h4><a name="05-14-19"></a>BioCompute Objects: Tools for Communicating NGS Data and Analysis</h4>
 
@@ -89,7 +89,7 @@ Welcome! This is the BioCompute Events page. 2020 workshops are listed on the sc
 
 <br>
 
-<h2 style="h2>2018</h2>
+<h2>2018</h2>
 
 <h4><a name="05-14-19"></a>BioCompute Objects PoC Workshop</h4>
 
