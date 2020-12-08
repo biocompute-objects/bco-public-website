@@ -9,16 +9,9 @@ menu: "main"
 
 <br>
 
-### Contact
-
-For more information, training, resources, or to work with the BioCompute project, please fill out the form below.
+### Please enter your e-mail below to register for PPP.
 
 <form name="contact" method="POST" data-netlify="true">
-
-<p>
-<label>Your Name:</label>
-<input type="text" name="name" id="inputname" class="form-control">
-</p>
 
 <p>
 <label>Your Email:</label>
@@ -26,23 +19,7 @@ For more information, training, resources, or to work with the BioCompute projec
 </p>
 
 <p>
-<label for="inputsubject">Subject:</label>
-<select name="subject" id="inputsubject" class="form-control">
-<option value="general">General comment</option>
-<option value="training">Schedule Training</option>
-<option value="consortium">Interested in joining the BioCompute Consortium/PPP</option>
-<option value="technical">BCO Technical issue</option>
-<option value="help">Need help</option>
-</select>
-</p>
-
-<p>
-<label for="inputmessage">Message:</label>
-<textarea name="message" id="inputmessage" class="form-control" rows="6"></textarea>
-</p>
-
-<p>
-<button type="submit" class="btn btn-primary">Send Message</button>
+<button type="submit" class="btn btn-primary">Register</button>
 </p>
 
 </form>
