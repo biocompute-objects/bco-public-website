@@ -11,7 +11,7 @@ menu: "main"
 
 ### Please enter your e-mail below to register for PPP.
 
-<form name="contact" method="POST" data-netlify="true">
+<form id="reg_form" name="contact" method="POST" data-netlify="true">
 
 <p>
 <label>Your Email:</label>
@@ -23,3 +23,16 @@ menu: "main"
 </p>
 
 </form>
+
+document.querySelector("form").addEventListener("submit", handleSubmit);
+
+const handleSubmit = (e) => {
+  e.preventDefault()
+  let myForm = document.getElementById("reg_form");
+  let formData = new FormData(myForm)
+  fetch('https://portal.aws.biochemistry.gwu.edu/consortium_register', {
+    method: 'GET',
+    headers: { "Content-Type": "application/x-www-form-urlencoded" },
+    body: new URLSearchParams(formData).toString()
+  }).then(() => navigate("/thank-you/")).catch(error => alert(error))
+}
