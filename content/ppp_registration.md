@@ -25,16 +25,4 @@ menu: "main"
 </form>
 <script>
   alert('hi');
-document.querySelector("form").addEventListener("submit", handleSubmit);
-const handleSubmit = (e) => {
-  e.preventDefault();
-  let myForm = document.getElementById("reg_form");
-  let formData = new FormData(myForm);
-  alert('here);
-  fetch('https://portal.aws.biochemistry.gwu.edu/consortium_register', {
-    method: 'GET',
-    headers: { "Content-Type": "application/x-www-form-urlencoded" },
-    body: new URLSearchParams(formData).toString()
-  }).then(() => navigate("/thank-you/")).catch(error => alert(error))
-}
 </script>
