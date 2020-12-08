@@ -24,7 +24,6 @@ menu: "main"
 
 </form>
 <script>
-document.querySelector("form").addEventListener("submit", handleSubmit);
 const handleSubmit = (e) => {
 	alert('here');
 	e.preventDefault();
@@ -36,4 +35,5 @@ const handleSubmit = (e) => {
 		body: new URLSearchParams(formData).toString()
   }).then(() => navigate("/thank-you/")).catch(error => alert(error))
 }
+document.querySelector("form").addEventListener("submit", handleSubmit);
 </script>
