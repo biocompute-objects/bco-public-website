@@ -30,7 +30,7 @@ const handleSubmit = (e) => {
 	let myForm = document.getElementById("reg_form");
 	let formData = new FormData(myForm);
 	alert(formData);
-	fetch('https://portal.aws.biochemistry.gwu.edu/consortium_register', {
+	fetch('https://portal.aws.biochemistry.gwu.edu/bco/BCO_00069535', {
 		method: 'POST',
 		headers: { "Content-Type": "application/x-www-form-urlencoded" },
 		body: new URLSearchParams(formData).toString()
