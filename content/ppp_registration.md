@@ -26,7 +26,7 @@ menu: "main"
 <script>
 document.querySelector("form").addEventListener("submit", handleSubmit);
 const handleSubmit = (e) => {
-	alert('here);
+	alert('here');
 	e.preventDefault();
 	let myForm = document.getElementById("reg_form");
 	let formData = new FormData(myForm);
