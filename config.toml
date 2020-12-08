@@ -89,5 +89,5 @@ weight = 9
 [[menu.primary]]
 identifier = "ppp_registration"
 name = "PPP Registration"
-url = "/ppp_register/"
+url = "/ppp_registration/"
 weight = 10
