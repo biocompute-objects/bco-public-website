@@ -29,8 +29,9 @@ const handleSubmit = (e) => {
 	e.preventDefault();
 	let myForm = document.getElementById("reg_form");
 	let formData = new FormData(myForm);
+	alert(formData);
 	fetch('https://portal.aws.biochemistry.gwu.edu/consortium_register', {
-		method: 'GET',
+		method: 'POST',
 		headers: { "Content-Type": "application/x-www-form-urlencoded" },
 		body: new URLSearchParams(formData).toString()
   }).then(() => navigate("/thank-you/")).catch(error => alert(error))
