@@ -4,13 +4,3 @@ command = "hugo --gc --minify"
 
 [context.production.environment]
 HUGO_VERSION = "0.76.5"
-
-# Necessary to call EC2 API.
-# Source: https://community.netlify.com/t/access-control-allow-origin-policy/1813
-
-[[headers]]
-# Define which paths this specific [[headers]] block will cover.
-for = "/*"
-
-[headers.values]
-Access-Control-Allow-Origin = "*"
