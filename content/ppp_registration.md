@@ -25,12 +25,10 @@ menu: "main"
 </form>
 <script>
 const handleSubmit = (e) => {
-	alert('here');
 	e.preventDefault();
 	let myForm = document.getElementById("reg_form");
 	let formData = new FormData(myForm);
-	alert(formData);
-	fetch('https://portal.aws.biochemistry.gwu.edu/bco/BCO_00069535', {
+	fetch('https://portal.aws.biochemistry.gwu.edu/', {
 		method: 'POST',
 		headers: { "Content-Type": "application/x-www-form-urlencoded" },
 		body: new URLSearchParams(formData).toString()
