@@ -86,4 +86,13 @@ To register for a BioCompute Informational Session (15 minute WebEx) click [here
 
 #### [BioCompute Objects PoC Workshop](https://hive.biochemistry.gwu.edu/htscsrs/workshop_2018)
 
-Agenda [here](https://hive.biochemistry.gwu.edu/htscsrs/agenda_2018)
+**Date:** March 23, 2018
+- Agenda [here](https://hive.biochemistry.gwu.edu/htscsrs/agenda_2018)
+
+<br>
+
+## 2014
+#### [2014 Next Generation Sequencing Standards](http://wayback.archive-it.org/7993/20180125145708/https://www.fda.gov/ScienceResearch/SpecialTopics/RegulatoryScience/ucm389561.htm)
+**Date:** Sep 24-25 at NIH in Bethesda, MD, USA
+
+
