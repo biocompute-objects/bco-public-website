@@ -11,7 +11,7 @@ menu: "main"
 
 ### Please enter your e-mail below to register for PPP.
 
-<form id="reg_form" name="contact" method="POST" data-netlify="true">
+<form id="reg_form" name="contact" method="POST">
 
 <p>
 <label>Your Email:</label>
