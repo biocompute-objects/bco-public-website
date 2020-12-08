@@ -85,3 +85,9 @@ identifier = "events"
 name = "Events"
 url = "/events/"
 weight = 9
+
+[[menu.primary]]
+identifier = "ppp_registration"
+name = "PPP Registration"
+url = "/ppp_register/"
+weight = 10
