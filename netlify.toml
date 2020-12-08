@@ -4,3 +4,10 @@ command = "hugo --gc --minify"
 
 [context.production.environment]
 HUGO_VERSION = "0.76.5"
+
+[[headers]]
+# Define which paths this specific [[headers]] block will cover.
+for = "/*"
+
+[headers.values]
+Access-Control-Allow-Origin = "*"
