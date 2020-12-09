@@ -9,7 +9,7 @@ menu: "main"
 
 <br>
 
-### Please enter your e-mail below to register for PPP.
+### Please enter your e-mail below to join the Consortium.
 
 <form id="reg_form" name="contact" method="POST">
 
