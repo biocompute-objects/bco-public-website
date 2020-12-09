@@ -32,7 +32,7 @@ const handleSubmit = (e) => {
 		method: 'POST',
 		headers: { "Content-Type": "application/x-www-form-urlencoded" },
 		body: new URLSearchParams(formData).toString()
-  }).then(() => alert('Thank your for signing up for the Consortium!  Close this alert to return to the homepage.).then(() => window.location.href='https://www.biocomputeobject.org/')))
+  }).then(() => alert('Thank your for signing up for the Consortium!  Close this alert to return to the homepage.).then(() => window.location.href='https://www.biocomputeobject.org/'))
 }
 document.querySelector("form").addEventListener("submit", handleSubmit);
 </script>
