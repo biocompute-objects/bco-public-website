@@ -34,7 +34,8 @@ const handleSubmit = (e) => {
 		body: new URLSearchParams(formData).toString()
   }).then(() => 
 	alert('Thank your for signing up for the Consortium!  Close this alert to return to the homepage.');
-	window.location.href='https://www.biocomputeobject.org/')
+	window.location.href='https://www.biocomputeobject.org/';
+)
 }
 document.querySelector("form").addEventListener("submit", handleSubmit);
 </script>
