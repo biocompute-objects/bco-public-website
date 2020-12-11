@@ -11,7 +11,7 @@ menu: "main"
 
 ### Please enter your e-mail below to join the BioCompute Consortium.
 
-<form id="reg_form" name="contact" method="POST">
+<form id="reg_form" name="contact">
 
 <p>
 <label>Your Email:</label><input type="email" name="email" id="inputemail" class="form-control">
@@ -34,7 +34,7 @@ const handleSubmit = (e) => {
 	fetch('https://portal.aws.biochemistry.gwu.edu/register/', {
 		method: 'POST',
 		headers: { "Content-Type": "application/x-www-form-urlencoded" },
-		body: new URLSearchParams(formData).toString()
+		body: formData
 }).then(() => {
 	alert('Thank your for signing up for the BioCompute Consortium!  Close this alert to return to the homepage.');
 	window.location.href='https://www.biocomputeobject.org';});
