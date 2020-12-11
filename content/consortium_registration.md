@@ -33,8 +33,8 @@ const handleSubmit = (e) => {
 	let formData = new FormData(myForm);
 	fetch('https://portal.aws.biochemistry.gwu.edu/register/', {
 		method: 'POST',
-		headers: { "Content-Type": "application/x-www-form-urlencoded" },
-		body: {'email': document.getElementById('inputemail').value, 'institution': document.getElementById('inputinstitution').value}
+		headers: { 'Content-type': 'application/json; charset=UTF-8' },
+		body: JSON.stringify({email: document.getElementById('inputemail').value, institution: document.getElementById('inputinstitution').value})
 }).then(() => {
 	alert('Thank your for signing up for the BioCompute Consortium!  Close this alert to return to the homepage.');
 	window.location.href='https://www.biocomputeobject.org';});
