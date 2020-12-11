@@ -86,8 +86,8 @@ name = "Events"
 url = "/events/"
 weight = 9
 
-[[menu.primary]]
-identifier = "consortium_registration"
-name = "Consortium Registration"
-url = "/consortium_registration/"
-weight = 10
+#[[menu.primary]]
+#identifier = "consortium_registration"
+#name = "Consortium Registration"
+#url = "/consortium_registration/"
+#weight = 10
