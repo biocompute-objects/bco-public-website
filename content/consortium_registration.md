@@ -9,7 +9,7 @@ menu: "main"
 
 <br>
 
-### Please enter your e-mail below to join the Consortium.
+### Please enter your e-mail below to join the BioCompute Consortium.
 
 <form id="reg_form" name="contact" method="POST">
 
@@ -33,7 +33,7 @@ const handleSubmit = (e) => {
 		headers: { "Content-Type": "application/x-www-form-urlencoded" },
 		body: new URLSearchParams(formData).toString()
 }).then(() => {
-	alert('Thank your for signing up for the Consortium!  Close this alert to return to the homepage.');
+	alert('Thank your for signing up for the BioCompute Consortium!  Close this alert to return to the homepage.');
 	window.location.href='https://www.biocomputeobject.org';});
 };
 document.querySelector("form").addEventListener("submit", handleSubmit);
