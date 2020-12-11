@@ -14,8 +14,11 @@ menu: "main"
 <form id="reg_form" name="contact" method="POST">
 
 <p>
-<label>Your Email:</label>
-<input type="email" name="email" id="inputemail" class="form-control">
+<label>Your Email:</label><input type="email" name="email" id="inputemail" class="form-control">
+</p>
+
+<p>
+<label>Your Institution:</label><input name="institution" id="inputinstitution" class="form-control">
 </p>
 
 <p>
