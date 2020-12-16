@@ -1,6 +1,6 @@
 baseurl = "/"
 publishDir = "public"
-title = "BioCompute Object Test"
+title = "BioCompute Objects"
 author = "BioCompute"
 canonifyurls = true
 languagecode = "en"
