@@ -9,82 +9,107 @@ menu: "main"
 
 <br>
 
-Welcome! This is the BioCompute Events page. 2020 workshops are listed on the schedule below. For any questions or comments please email [Janisha Patel](mailto:janishapatel@gwu.edu).
-
-To register for a BioCompute Informational Session (15 minute WebEx) click [here](https://forms.gle/MSXxoEKbTS9CueVa9).
+Welcome! This is the BioCompute Events page. 2020 workshops are listed on the schedule below. For any questions, comments, or for a BioCompute Informational Session (15 minute WebEx) click [here](https://forms.gle/MSXxoEKbTS9CueVa9).
 
 <br>
 
-## <a name="upcoming"></a>Upcoming Workshops
+<div class="row" >
 
-### November 2020
+<div class="col-lg-9" markdown="1">
+	
+<!-- <h2><a name="upcoming"></a>Upcoming Workshops</h2>
 
-### <a name="11-20-20"></a>Introduction to workflow portability with BCO-CWL 
+<h3>November 2020</h3>
 
-**Date**: Friday November 20th at 12-2PM ET
 
-**Purpose**: BioCompute Objects (BCOs) were developed to aid in communicating a more thorough understanding of computational analyses. While BCOs can be leveraged for re-execution within the context of specific platforms that have integrated them, they are not used for cross platform implementations. Common Workflow Language (CWL) was developed to assist in the portability of execution, meaning the ability to reproduce a pipeline in a different computational environment. The BCO and CWL teams have partnered over the last year to develop a joint mechanism that enables both portability of execution and strong human- and machine-readable documentation through metadata records. New functionality of BCO-CWL means that a reviewer may be able to independently run a computational pipeline used by a sponsor if using a command line environment, or on a platform that supports CWL. This presentation will go over the project by introducing the concept of portability of execution, the concept of a CWL file, and demonstrate the initial draft of a BCO-CWL implementation.
+<br> -->
 
-- Register [here](https://www.eventbrite.com/e/biocompute-workshop-for-reviewers-tool-for-communicating-sequencing-tickets-126603690045)
+<h2>Previous Workshops</h2>
 
-<br>
+<h3>2020</h3>
 
-## Previous Workshops
+<h3><a name="11-20-20"></a>Introduction to workflow portability with BCO-CWL</h3>
 
-### 2020
+<b>Date</b>: Friday November 20th at 12-2PM ET
 
-#### <a name="03-18-20"></a>BioCompute Advisory Boards Workshop
-
-**Date**: Wednesday March 18, 2020 2-4pm ET
-
-**Purpose**: The purpose of this workshop is to facilitate dialogue between Advisory Board(s) members on BioCompute applications, vocabulary, and current + future progression of the project through a hands-on approach. These discussions are a means to obtain feedback, introduce potential use-cases, and bring everyone up to speed about BioCompute.
+<b>Purpose</b>: BioCompute Objects (BCOs) were developed to aid in communicating a more thorough understanding of computational analyses. While BCOs can be leveraged for re-execution within the context of specific platforms that have integrated them, they are not used for cross platform implementations. Common Workflow Language (CWL) was developed to assist in the portability of execution, meaning the ability to reproduce a pipeline in a different computational environment. The BCO and CWL teams have partnered over the last year to develop a joint mechanism that enables both portability of execution and strong human- and machine-readable documentation through metadata records. New functionality of BCO-CWL means that a reviewer may be able to independently run a computational pipeline used by a sponsor if using a command line environment, or on a platform that supports CWL. This presentation will go over the project by introducing the concept of portability of execution, the concept of a CWL file, and demonstrate the initial draft of a BCO-CWL implementation.
 
 <br>
 
-#### <a name="06-24-20"></a>BioCompute Workshop for Reviewers: Tool for Communicating Sequencing Analysis
+<h4><a name="03-18-20"></a>BioCompute Advisory Boards Workshop</h4>
 
-**Date**: Wednesday June 24, 2020 10am-12pm ET
+<b>Date</b>: Wednesday March 18, 2020 2-4pm ET
 
-**Purpose**: The purpose of this workshop is to facilitate dialogue and show BCO utility specifically for FDA reviewers. We will be briefly discussing BioCompute applications, vocabulary, current + future progression of the project in addition to a hands-on approach to reviewing a BCO for. These discussions are a means to introduce BCO as a tool for submission evaluation mechanism obtain feedback.
-
-- _Slide deck available [here](/docs/ReviewerWorkshop_24June2020_Deck.pdf)_
-- _Quick reference guide can be found [here](/docs/BCOCheatSheet.pdf) (PDF)_
-- _Post-workshop attendee survey available [here](https://www.surveymonkey.com/r/Q9LXSC6)_
+<b>Purpose</b>: The purpose of this workshop is to facilitate dialogue between Advisory Board(s) members on BioCompute applications, vocabulary, and current + future progression of the project through a hands-on approach. These discussions are a means to obtain feedback, introduce potential use-cases, and bring everyone up to speed about BioCompute.
 
 <br>
 
-#### <a name="09-24-20"></a>BioCompute Objects: Methods for communicating provenance of data and analysis 
+<h4><a name="06-24-20"></a>BioCompute Workshop for Reviewers: Tool for Communicating Sequencing Analysis</h4>
 
-> Part of the [Biocuration 2020 Online Workshop](https://www.biocuration.org/biocuration-2020-online-workshops/) series
+<b>Date</b>: Wednesday June 24, 2020 10am-12pm ET
 
-**Date:** Thursday September 24, 9am PT, 12pm ET, 5pm CET
+<b>Purpose</b>: The purpose of this workshop is to facilitate dialogue and show BCO utility specifically for FDA reviewers. We will be briefly discussing BioCompute applications, vocabulary, current + future progression of the project in addition to a hands-on approach to reviewing a BCO for. These discussions are a means to introduce BCO as a tool for submission evaluation mechanism obtain feedback.
 
-**Organizers:** Charles Hadley King, Raja Mazumder, Jonathon Keeney; George Washington University
+<ul>
+	<li><i>Slide deck available [here](/docs/ReviewerWorkshop_24June2020_Deck.pdf)</i></li>
+	<li><i>Quick reference guide can be found [here](/docs/BCOCheatSheet.pdf) (PDF)</i></li>
+	<li><i>Post-workshop attendee survey available [here](https://www.surveymonkey.com/r/Q9LXSC6)</i></li>
+</ul>
+<br>
 
-**Purpose:** Inform about BioCompute Object use and purpose and offer tutelage in the creation and use of BCOs
+<h4><a name="09-24-20"></a>BioCompute Objects: Methods for communicating provenance of data and analysis</h4>
 
- - Abstract available [here](https://drive.google.com/file/d/1aYdfM6Ph2eJ9a1-1s96vFyiFQGkCtmsY/view)
+<h6><i>Part of the <a href="https://www.biocuration.org/biocuration-2020-online-workshops/">Biocuration 2020 Online Workshop</a> series</i></h6>
+
+<b>Date</b>: Thursday September 24, 9am PT, 12pm ET, 5pm CET
+
+<b>Organizers</b>: Charles Hadley King, Raja Mazumder, Jonathon Keeney; George Washington University
+
+<b>Purpose</b>: Inform about BioCompute Object use and purpose and offer tutelage in the creation and use of BCOs
+
+<ul><li>Abstract available <a href="https://drive.google.com/file/d/1aYdfM6Ph2eJ9a1-1s96vFyiFQGkCtmsY/view">here</a></li></ul>
 
 <br>
 
-## 2019
+<h2>2019<h2>
 
-#### <a name="05-14-19"></a>BioCompute Objects: Tools for Communicating NGS Data and Analysis 
+<h4><a name="05-14-19"></a>BioCompute Objects: Tools for Communicating NGS Data and Analysis</h4>
 
-**Date:** Tuesday May 14, 2019
+<b>Date</b>: Tuesday May 14, 2019
 
-**Organizers:** [FDA Center for Biologics Evaluation and Research (CBER)](https://www.fda.gov/about-fda/fda-organization/center-biologics-evaluation-and-research-cber)
+<b>Organizers</b>: [FDA Center for Biologics Evaluation and Research (CBER)](https://www.fda.gov/about-fda/fda-organization/center-biologics-evaluation-and-research-cber)
 
 **Purpose:** The BioCompute project has resulted in three prior workshops, two publications, several collaborations, and is currently undergoing formal balloting to become an official IEEE standard. The upcoming Workshop will engage more stakeholders in creating and using BioCompute for NGS and other bioinformatics data analysis communications with the FDA. Specifically, the Workshop will have two components: use case examples, and hands on & demonstrations of new tools that leverage BioCompute. A new Precision FDA-BioCompute Challenge will also be launched at the event.
 
-- Agenda [here](/2019-workshop-agenda.md)
-- Meeting info [here](https://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/biocompute-objects-tools-communicating-ngs-data-and-analysis-public-workshop-05142019-05152019)
+<ul>
+
+<li>Agenda <a href="/2019-workshop-agenda">here</a></li>
+<li>Meeting info <a href="https://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/biocompute-objects-tools-communicating-ngs-data-and-analysis-public-workshop-05142019-05152019">here</a></li>
+
+</ul>
 
 <br>
 
-## 2018
+<h2>2018</h2>
 
-#### [BioCompute Objects PoC Workshop](https://hive.biochemistry.gwu.edu/htscsrs/workshop_2018)
+<h4><a name="05-14-19"></a>BioCompute Objects PoC Workshop</h4>
+
+Agenda <a href="https://hive.biochemistry.gwu.edu/htscsrs/agenda_2018">here</a>
+</div>
+
+<div class="col-lg-3">
+	
+<a class="twitter-timeline" 
+  href="https://twitter.com/BioComputeObj?ref_src=twsrc%5Etfw" 
+    data-height="2500"
+    show-replies="true"
+    data-chrome="nofooter"
+    data-chrome="noheader"
+    dnt="true">
+  Tweets by BioComputeObj</a> 
+  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+</div>
 
 **Date:** March 23, 2018
 - Agenda [here](https://hive.biochemistry.gwu.edu/htscsrs/agenda_2018)
@@ -96,3 +121,5 @@ To register for a BioCompute Informational Session (15 minute WebEx) click [here
 **Date:** Sep 24-25 at NIH in Bethesda, MD, USA
 
 
+=======
+</div>

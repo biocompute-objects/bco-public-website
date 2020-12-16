@@ -1,6 +1,6 @@
 # BioCompute Object dot Org (biocomputeobject.org) 
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e549beca-340b-4022-bbca-6ece5196728c/deploy-status)](https://app.netlify.com/sites/condescending-leakey-26b782/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e549beca-340b-4022-bbca-6ece5196728c/deploy-status)](https://app.netlify.com/sites/test.condescending-leakey-26b782/deploys)
 
 This repo hosts the source code for a Hugo-based prototype of [biocomputeobject.org](https://www.biocomputeobject.org/).
 
