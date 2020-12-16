@@ -93,8 +93,22 @@ Welcome! This is the BioCompute Events page. 2020 workshops are listed on the sc
 <h2>2018</h2>
 
 <h4><a name="05-14-19"></a>BioCompute Objects PoC Workshop</h4>
+<ul>
+<li>Agenda <a href="https://hive.biochemistry.gwu.edu/htscsrs/agenda_2018">here</a></li>
+</ul>
 
-Agenda <a href="https://hive.biochemistry.gwu.edu/htscsrs/agenda_2018">here</a>
+<br>
+
+<h2>2014</h2>
+
+<h4><a name="09-24-2014">2014 Public Workshop: Next Generation Sequencing Standards</h4>
+
+<ul>
+<li>
+<a href="http://wayback.archive-it.org/7993/20180125145708/https://www.fda.gov/ScienceResearch/SpecialTopics/RegulatoryScience/ucm389561.htm)">Agenda and meeting info</a>
+</li>
+</ul>
+
 </div>
 
 <div class="col-lg-3">
@@ -111,15 +125,4 @@ Agenda <a href="https://hive.biochemistry.gwu.edu/htscsrs/agenda_2018">here</a>
 
 </div>
 
-**Date:** March 23, 2018
-- Agenda [here](https://hive.biochemistry.gwu.edu/htscsrs/agenda_2018)
-
 <br>
-
-## 2014
-#### [2014 Next Generation Sequencing Standards](http://wayback.archive-it.org/7993/20180125145708/https://www.fda.gov/ScienceResearch/SpecialTopics/RegulatoryScience/ucm389561.htm)
-**Date:** Sep 24-25 at NIH in Bethesda, MD, USA
-
-
-=======
-</div>
