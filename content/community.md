@@ -21,12 +21,29 @@ The primary purpose of the TSC as described in this initial charter falls into 2
 
   2. Build Tools Related to the BioCompute Standard
 
+<div class="alert alert-success" role="alert">
+
 **Meetings are held the 3rd Thursday of the month at 10:00 am Washington, DC time [EST]**
+
+
+[Join here](https://gwu.webex.com/gwu/j.php?MTID=m4e0ce26141691120a2f55bc3a310c73e)
+
+Meeting number:  120 613 0391
 
 - See this Google Doc for the [Meeting notes and agenda](https://docs.google.com/document/d/1io5OBfsdEif_nWX-TmA22fz7gayHR1MsEwv2vI_QGBY/edit?usp=sharing) for all past and the upcomming meetings. 
 
 - Also see the [Gitter](https://gitter.im/biocompute-objects/TechnicalSteeringCommittee) for this group's discussions. 
 
+##### Join by phone
+
++1-415-655-0003 US TOLL
+
++1-855-282-6330 US TOLL FREE
+
+Access code: 120 613 0391
+
+
+</div>
 <br>
 
 ## <a name="organization"></a>[BioCompute Organization](/organization)
