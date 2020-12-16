@@ -27,10 +27,10 @@ highlightjslanguages = ["r"]
 progressively = false
 google_tag_manager = "UA-79911051-3"
 
-# contact = "example@example.com"
+contact = "example@example.com"
 github = "biocompute-objects"
-# twitter = "example"
-# linkedin = "example"
+twitter = "BioComputeObj"
+linkedin = "example"
 
 [[menu.primary]]
 identifier = "home"
