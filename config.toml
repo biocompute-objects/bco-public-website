@@ -39,11 +39,11 @@ name = "Home"
 url = "/"
 weight = 1
 
-[[menu.primary]]
-identifier = "news"
-name = "News"
-url = "/news/"
-weight = 2
+# [[menu.primary]]
+# identifier = "news"
+# name = "News"
+# url = "/news/"
+# weight = 2
 
 [[menu.primary]]
 identifier = "about"
@@ -51,16 +51,16 @@ name = "About"
 url = "/about/"
 weight = 3
 
-[[menu.primary]]
-identifier = "services"
-name = "Services"
-url = "/services/"
-weight = 4
+# [[menu.primary]]
+# identifier = "services"
+# name = "Services"
+# url = "/services/"
+# weight = 4
 
 [[menu.primary]]
-identifier = "organization"
-name = "Organization"
-url = "/organization/"
+identifier = "community"
+name = "Community"
+url = "/community/"
 weight = 5
 
 [[menu.primary]]
@@ -83,7 +83,7 @@ weight = 7
 
 [[menu.primary]]
 identifier = "events"
-name = "Events"
+name = "News & Events"
 url = "/events/"
 weight = 9
 
