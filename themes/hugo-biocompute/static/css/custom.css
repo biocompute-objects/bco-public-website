@@ -350,3 +350,10 @@ div.alert p {
         text-align: left;
     }
 }
+
+/* Override padding so that navigation isn't messed up. */
+
+.container {
+    padding-left: 0px;
+    padding-right: 0px;
+}

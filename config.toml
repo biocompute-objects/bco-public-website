@@ -1,6 +1,6 @@
 baseurl = "/"
 publishDir = "public"
-title = "BioCompute Object"
+title = "BioCompute Object Test"
 author = "BioCompute"
 canonifyurls = true
 languagecode = "en"
@@ -85,3 +85,9 @@ identifier = "events"
 name = "Events"
 url = "/events/"
 weight = 9
+
+#[[menu.primary]]
+#identifier = "consortium_registration"
+#name = "Consortium Registration"
+#url = "/consortium_registration/"
+#weight = 10
