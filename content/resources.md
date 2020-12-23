@@ -21,9 +21,9 @@ Publicly available resources developed by the BioCompute community include:
 - The [BCO User Manual](/BCO_UserManual) provides guidance on BCO evaluation.
 - The [BCO RO Tutorial](https://biocompute-objects.github.io/bco-ro-crate/) shows how a BCO can be packaged/archived/transmitted/described as an RO-Crate Research Object, using a running [example of a Nextflow workflow](github.com/biocompute-objects/bco-ro-example-chipseq). **Work in progress**
 
-### BCO Editor
+### BCO Portal
 
-- The [BCO Editor](https://portal.aws.biochemistry.gwu.edu/) is a form based creation tool for generating BioCompute Objects. The BCO Editor contains built-in linting and conformance against the current BioCompute specification. The BCO Editor includes a database of created BCOs. Unless specified in the embargo field, BCOs in the database are viewable to the general public.
+- The [BCO Portal](https://portal.aws.biochemistry.gwu.edu/) is a form based creation tool for generating BioCompute Objects. The BCO Portal contains built-in linting and conformance against the current BioCompute specification. The BCO Portal includes a database of created BCOs. Unless specified in the embargo field, BCOs in the database are viewable to the general public.
 
 ### Software Packages
 
