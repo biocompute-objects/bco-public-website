@@ -11,6 +11,23 @@ menu: "main"
 
 Publicly available resources developed by the BioCompute community include:
 
+### BCO Portal
+
+The [BCO Portal](https://portal.aws.biochemistry.gwu.edu/) is a form based creation tool for generating BioCompute Objects. The BCO Portal contains built-in linting and conformance against the current BioCompute specification. The BCO Portal includes a database of created BCOs. Unless specified in the embargo field, BCOs in the database are viewable to the general public.
+
+### Platform Specific Tools
+
+#### HIVE BCO App
+
+The High-throughput Integrated Virtual Environment ([HIVE](https://hive.biochemistry.gwu.edu/dna.cgi?cmd=main)) for genome analysis and the widely used, open source Galaxy project both have platform specific tools for generating BioCompute Objects from workflows. Both of these can be found on our [home page](/#tools).
+
+#### Cancer Genomics Cloud BCO App
+
+The [Cancer Genomics Cloud](https://www.cancergenomicscloud.org/) (CGC) has a powerful tool built into the CGC platform to capture and export a workflow as a BioCompute Object.
+
+#### Galaxy BCO Extension
+The [Galaxy BCO API Extension](https://galaxy.aws.biochemistry.gwu.edu/) enables Galaxy users to the export of Galaxy "workflow invocations" (i.e. realizations of a computational pipeline) in BCO format. 
+
 ### BCO Community
 
 - The [BCO Gitter](https://gitter.im/biocompute-objects/) has spaces for general discussion, technical development, BCO implementation, and networking.
@@ -20,10 +37,6 @@ Publicly available resources developed by the BioCompute community include:
 - The [BCO SOP](/BCO_SOP) provides guidance on BCO creation, versioning, and certification.
 - The [BCO User Manual](/BCO_UserManual) provides guidance on BCO evaluation.
 - The [BCO RO Tutorial](https://biocompute-objects.github.io/bco-ro-crate/) shows how a BCO can be packaged/archived/transmitted/described as an RO-Crate Research Object, using a running [example of a Nextflow workflow](github.com/biocompute-objects/bco-ro-example-chipseq). **Work in progress**
-
-### BCO Portal
-
-- The [BCO Portal](https://portal.aws.biochemistry.gwu.edu/) is a form based creation tool for generating BioCompute Objects. The BCO Portal contains built-in linting and conformance against the current BioCompute specification. The BCO Portal includes a database of created BCOs. Unless specified in the embargo field, BCOs in the database are viewable to the general public.
 
 ### Software Packages
 
@@ -40,16 +53,6 @@ Publicly available resources developed by the BioCompute community include:
 ### BCO "Cheat Sheet"
 
 - A [quick reference guide](/BCOCheatSheet) (PDF) for getting up to speed with reading a BCO.
-
-### Platform Specific Tools
-
-#### HIVE
-
-The High-throughput Integrated Virtual Environment ([HIVE](https://hive.biochemistry.gwu.edu/dna.cgi?cmd=main)) for genome analysis and the widely used, open source Galaxy project both have platform specific tools for generating BioCompute Objects from workflows. Both of these can be found on our [home page](/#tools).
-
-#### Cancer Genomics Cloud
-
-The [Cancer Genomics Cloud](https://www.cancergenomicscloud.org/) (CGC) has a powerful tool built into the CGC platform to capture and export a workflow as a BioCompute Object.
 
 ### References
 
