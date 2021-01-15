@@ -18,7 +18,6 @@ hasCJKLanguage = true
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
-copyright = "© 2018 - 2020 BioCompute. All rights reserved."
 faviconfile = "images/favicon.png"
 posts_navigation = true
 uselatex = false
