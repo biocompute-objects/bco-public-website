@@ -89,3 +89,10 @@ Contributor roles in a BCO are explicitly defined according to the Prov-O standa
 
 1. [JSON Schema](https://json-schema.org/draft/2019-09/json-schema-core.html)<br>
 BioCompute is based heavily on the JSON Schema media type. Definitions and format within the BCO Schema adhere to "draft-handrews-json-schema-02."
+
+
+
+
+To cite BioCompute, please use:
+1. [Biocompute Objects-A Step towards Evaluation and Validation of Biomedical Scientific Computations](https://pubmed.ncbi.nlm.nih.gov/27974626/)<br> 
+2. [Enabling precision medicine via standard communication of HTS provenance, analysis, and results](https://pubmed.ncbi.nlm.nih.gov/30596645/)
