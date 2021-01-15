@@ -11,5 +11,11 @@ menu: "main"
 
 ### Apps that work in the BioCompute Ecosystem
 
+User-Friendly Data Analysis Apps
+
 RO-BCO
+<br>
 SB-BCO
+<br>
+
+
