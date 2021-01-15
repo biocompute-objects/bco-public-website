@@ -9,6 +9,12 @@ menu: "main"
 
 <br>
 
+To cite BioCompute, please use:
+1. [Biocompute Objects-A Step towards Evaluation and Validation of Biomedical Scientific Computations](https://pubmed.ncbi.nlm.nih.gov/27974626/)<br> 
+2. [Enabling precision medicine via standard communication of HTS provenance, analysis, and results](https://pubmed.ncbi.nlm.nih.gov/30596645/)
+
+<br>
+
 Publicly available resources developed by the BioCompute community include:
 
 ### BCO Portal
@@ -92,7 +98,3 @@ BioCompute is based heavily on the JSON Schema media type. Definitions and forma
 
 
 
-
-To cite BioCompute, please use:
-1. [Biocompute Objects-A Step towards Evaluation and Validation of Biomedical Scientific Computations](https://pubmed.ncbi.nlm.nih.gov/27974626/)<br> 
-2. [Enabling precision medicine via standard communication of HTS provenance, analysis, and results](https://pubmed.ncbi.nlm.nih.gov/30596645/)
