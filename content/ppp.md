@@ -11,7 +11,7 @@ menu: "main"
 
 The BioCompute community is comprised of several groups and individuals from regulatory, academia, and private industry that have contributed to the concept, development, testing, and/or feedback of the BioCompute project. The first formal structure to take shape is the Public Private Partnership, which focuses on the support, adoption and application of the IEEE standard. (Note that the PPP is not responsible for the development of the IEEE standard. The standard was developed by the P2791 Working Group, and the difference between these two is explained [here](/organization).
 
-The BioCompute Public Private Partnership is the nexus of many fields with interests in the communication bioinformatic workflow analysis. For membership inquiries, please contact <a href="mailto:keeneyjg@gwu.edu" class=regular>Jonathon Keeney</a>.
+The BioCompute Public Private Partnership is the nexus of many fields with interests in the communication bioinformatic workflow analysis. For membership, please register [here](https://www.biocomputeobject.org/ppp_registration/).
 
 The mission of the Public Private Partnership is to:
 
