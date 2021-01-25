@@ -9,7 +9,7 @@ menu: "main"
 
 <br>
 
-### Please enter your e-mail below to join the BioCompute Consortium.
+### Please enter your e-mail below to join the BioCompute Public Private Partnership.
 
 <form id="reg_form" name="contact">
 
