@@ -23,4 +23,4 @@ The mission of the Public Private Partnership is to:
 
 | Argentys | Millipore Sigma | Open Health Systems Laboratory (OHSL)|
 | :-------------: | :----------: | :-----------: | :-----------: |
-|  <a href="http://argentys.com/"><img src="/images/logo.Argentys.png " height="50px" alt="Argentys"> | <a href="https://www.sigmaaldrich.com/united-states.html"><img src="/images/logo.MilliporeSigma.png " height="50px" alt="Millipore Sigma"> | <a href="https://ohsl.us/"><img src="/images/logo.OpenHealthSystemsLaboratory.png" height="50px" alt=""> |
+|  <a href="http://argentys.com/"><img src="/images/logo.Argentys.png " height="50px" alt="Argentys"> |  <a href="https://www.sigmaaldrich.com/united-states.html"><img src="/images/logo.MilliporeSigma.png " height="50px" alt="Millipore Sigma"> | <a href="https://ohsl.us/"><img src="/images/logo.OpenHealthSystemsLaboratory.png" height="50px" alt=""> |
