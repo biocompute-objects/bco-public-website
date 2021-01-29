@@ -87,7 +87,7 @@ The [Galaxy BCO API Extension](https://galaxy.aws.biochemistry.gwu.edu/) enables
 <a name="BCO Cheat Sheet"></a>
 ### BCO "Cheat Sheet"
 
-- A [quick reference guide](/BCOCheatSheet) (PDF) for getting up to speed with reading a BCO.
+- A [quick reference guide](/BCOCheatSheet.pdf) (PDF) for getting up to speed with reading a BCO.
 
 
 <a name="References"></a>
