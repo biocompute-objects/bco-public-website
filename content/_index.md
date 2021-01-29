@@ -25,6 +25,10 @@ The open source repository for the IEEE Standard can be accessed [here](https://
 
 <br>
 
+### [Join our Community!](https://www.biocomputeobject.org/ppp/)
+
+<br>
+
 ### <a name="tools"></a>Cloud-based tools for working with BioCompute
 
 See our [resources](/resources) page for additional tools and services.
