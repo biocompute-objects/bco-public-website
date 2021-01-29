@@ -10,7 +10,7 @@ menu: "main"
 <br>
 
 ### Table of contents <br>
-<a href="#Platform Specific Tools">Platform Specific Tools</a>
+<a href="#BCO Portal">BCO Portal</a>
 
 
 <br>
@@ -23,6 +23,6 @@ To cite BioCompute, please use:
 
 Publicly available resources developed by the BioCompute community include:
 
-### BCO Portal
+### <a name="BCO Portal"></a>
 
 The [BCO Portal](https://portal.aws.biochemistry.gwu.edu/) is a form based creation tool for generating BioCompute Objects. The BCO Portal contains built-in linting and conformance against the current BioCompute specification. The BCO Portal includes a database of created BCOs. Unless specified in the embargo field, BCOs in the database are viewable to the general public.
