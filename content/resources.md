@@ -18,8 +18,15 @@ To cite BioCompute, please use:
 ### Table of contents
 
 <a href="#BCO Portal">BCO Portal</a> <br>
-<a href="#Platform Specific Tools">Platform Specific Tools</a>
-<a href="#BCO Community">BCO Community</a>
+<a href="#Platform Specific Tools">Platform Specific Tools</a> <br>
+<a href="#BCO Community">BCO Community</a> <br>
+<a href="#BCO Documentation">BCO Documentation</a> <br>
+<a href="#Software Packages">Software Packages</a> <br>
+<a href="#BCO Registry">BCO Registry</a> <br>
+<a href="#BCO Aggregator">BCO Aggregator</a> <br>
+<a href="#BCO Cheat Sheet">BCO Cheat Sheet</a> <br>
+<a href="#References">References</a><br>
+
 
 <br>
 
@@ -51,7 +58,7 @@ The [Galaxy BCO API Extension](https://galaxy.aws.biochemistry.gwu.edu/) enables
 - The [BCO Gitter](https://gitter.im/biocompute-objects/) has spaces for general discussion, technical development, BCO implementation, and networking.
 
 
-
+<a name="BCO Documentation"></a>
 ### BCO Documentation
 
 - The [BCO SOP](/BCO_SOP) provides guidance on BCO creation, versioning, and certification.
@@ -59,31 +66,31 @@ The [Galaxy BCO API Extension](https://galaxy.aws.biochemistry.gwu.edu/) enables
 - The [BCO RO Tutorial](https://biocompute-objects.github.io/bco-ro-crate/) shows how a BCO can be packaged/archived/transmitted/described as an RO-Crate Research Object, using a running [example of a Nextflow workflow](github.com/biocompute-objects/bco-ro-example-chipseq). **Work in progress**
 
 
-
+<a name="Software Packages"></a>
 ### Software Packages
 
 - The R package [biocompute](https://cran.r-project.org/package=biocompute) can create, validate, and export BioCompute Objects. Users can encode information in data frames, and compose BioCompute Objects from the domains defined by the standard. A checksum validator and a JSON schema validator are provided. Also supports exporting BioCompute Objects as JSON, PDF, HTML, or Word documents, and exporting to cloud-based platforms.
 
 
-
+<a name="BCO Registry"></a>
 ### BCO Registry
 
 - The BioCompute consortium maintains a database of [registered authorities](https://biocomputeobject.org/registry.html). Registered authorities are able to assign their own IDs in the `object_id` field, such as gwu000001.
 
 
-
+<a name="BCO Aggregator"></a>
 ### BCO Aggregator (under construction)
 
 - The BioCompute consortium maintains a database of submitted BCOs. The database acts as a mirror that generates checksums for validation.
 
 
-
+<a name="BCO Cheat Sheet"></a>
 ### BCO "Cheat Sheet"
 
 - A [quick reference guide](/BCOCheatSheet) (PDF) for getting up to speed with reading a BCO.
 
 
-
+<a name="References"></a>
 ### References
 
 1. [2791-2020 IEEE Standard](https://opensource.ieee.org/2791-object/ieee-2791-schema/)<br>
