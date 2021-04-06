@@ -12,7 +12,7 @@ menu: "main"
 To cite BioCompute, please use:
 1. [Biocompute Objects-A Step towards Evaluation and Validation of Biomedical Scientific Computations](https://pubmed.ncbi.nlm.nih.gov/27974626/)<br> 
 2. [Enabling precision medicine via standard communication of HTS provenance, analysis, and results](https://pubmed.ncbi.nlm.nih.gov/30596645/)
-
+3. [Bioinformatics tools developed to support BioCompute Objects](https://pubmed.ncbi.nlm.nih.gov/33784373/)
 <br>
 
 ### Table of contents
