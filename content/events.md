@@ -23,27 +23,41 @@ Welcome! This is the BioCompute Events page. 2020 workshops are listed on the sc
 
 
 <br> -->
+<h2>Upcoming </h2>
+<h3><a name="7-28-21"></a>Towards Interoperability: Generating BioCompute Objects on Cloud-Based Platforms for Advancing Precision Medicine</h3>
+<h3><a href="https://www.eventbrite.com/e/workflow-capture-reproducibility-biocompute-objects-in-seven-bridges-p-tickets-162673277151">Register here! </a></h3>
+
+<b>Date</b>: Wednesday July 28 at 11:00AM-12:30PM ET
+	
+<b>Purpose</b>: The purpose of this workshop is to understand the value of interoperability in both research and regulatory review for scientists in the public or private spaces, and especially from the perspective of FDA personnel. As part of the larger goal of smoothing communication between the FDA and private sector to reduce organization burden on both ends, this workshop will first introduce how the cloud computing platform Seven Bridges can package BioCompute Objects (BCOs) for workflow capture and reproducibility. Following the introduction, we will describe several  previously observed use cases to solicit feedback on their relevance to attendees, potentially from image processing (for diagnosis), machine-learning (for communicating and exchanging models with training data), and/or multi-modal data applications. Attendees will also have an opportunity to suggest other use cases they feel are relevant.
+
 
 <h2>Previous Workshops</h2>
+<h3>2021</h3>
+<h4><a name="5-12-21"></a>Workflow Preservation and Reproducibility with BCO-RO</h4>
+<b>Date</b>: Wednesday May 12 at 11:00AM-12:30PM ET
+	
+	
+<b>Purpose</b>: Training session showing how Research Objects (RO) can package BioCompute Objects (BCO) for Digital Preservation and Reproducibility. Research Objects (RO) are a machine-readable digital preservation effort that aims to package all constituent elements of an analysis together into one archive with very detailed provenance. Here, Stian Soiland-Reyes, a Technical Architect on the Research Objects project, will describe an example that packages the workflow as a descriptive, human-readable report in the form of a BioCompute Object (BCO), and which bundles everything in an RO "Crate." Stian will explain the Research Objects project, and introduce a tutorial for building an RO-BCO archive. RO-BCOs can be efficient solutions for scaling up data analyses, both for internal record keeping and logistics, and for communicating workflows to outside groups.
 
+	
 <h3>2020</h3>
 
-<h3><a name="11-20-20"></a>Introduction to workflow portability with BCO-CWL</h3>
+<h4><a name="11-20-20"></a>Introduction to workflow portability with BCO-CWL</h4>
 
 <b>Date</b>: Friday November 20th at 12-2PM ET
 
+	
 <b>Purpose</b>: BioCompute Objects (BCOs) were developed to aid in communicating a more thorough understanding of computational analyses. While BCOs can be leveraged for re-execution within the context of specific platforms that have integrated them, they are not used for cross platform implementations. Common Workflow Language (CWL) was developed to assist in the portability of execution, meaning the ability to reproduce a pipeline in a different computational environment. The BCO and CWL teams have partnered over the last year to develop a joint mechanism that enables both portability of execution and strong human- and machine-readable documentation through metadata records. New functionality of BCO-CWL means that a reviewer may be able to independently run a computational pipeline used by a sponsor if using a command line environment, or on a platform that supports CWL. This presentation will go over the project by introducing the concept of portability of execution, the concept of a CWL file, and demonstrate the initial draft of a BCO-CWL implementation.
-
 <br>
-
+<br>
 <h4><a name="03-18-20"></a>BioCompute Advisory Boards Workshop</h4>
 
 <b>Date</b>: Wednesday March 18, 2020 2-4pm ET
 
 <b>Purpose</b>: The purpose of this workshop is to facilitate dialogue between Advisory Board(s) members on BioCompute applications, vocabulary, and current + future progression of the project through a hands-on approach. These discussions are a means to obtain feedback, introduce potential use-cases, and bring everyone up to speed about BioCompute.
-
 <br>
-
+<br>
 <h4><a name="06-24-20"></a>BioCompute Workshop for Reviewers: Tool for Communicating Sequencing Analysis</h4>
 
 <b>Date</b>: Wednesday June 24, 2020 10am-12pm ET
