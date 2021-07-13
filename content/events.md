@@ -23,15 +23,18 @@ Welcome! This is the BioCompute Events page. 2020 workshops are listed on the sc
 
 
 <br> -->
-<h2>Upcoming </h2>
+<h2>Upcoming Workshops</h2>
 <h3><a name="7-28-21"></a>Towards Interoperability: Generating BioCompute Objects on Cloud-Based Platforms for Advancing Precision Medicine</h3>
 <h3><a href="https://www.eventbrite.com/e/workflow-capture-reproducibility-biocompute-objects-in-seven-bridges-p-tickets-162673277151">Register here! </a></h3>
 
 <b>Date</b>: Wednesday July 28 at 11:00AM-12:30PM ET
 	
-<b>Purpose</b>: The purpose of this workshop is to understand the value of interoperability in both research and regulatory review for scientists in the public or private spaces, and especially from the perspective of FDA personnel. As part of the larger goal of smoothing communication between the FDA and private sector to reduce organization burden on both ends, this workshop will first introduce how the cloud computing platform Seven Bridges can package BioCompute Objects (BCOs) for workflow capture and reproducibility. Following the introduction, we will describe several  previously observed use cases to solicit feedback on their relevance to attendees, potentially from image processing (for diagnosis), machine-learning (for communicating and exchanging models with training data), and/or multi-modal data applications. Attendees will also have an opportunity to suggest other use cases they feel are relevant.
+<b>Purpose</b>: The purpose of this workshop is to understand the value of interoperability in both research and regulatory review for scientists in the public or private spaces, and especially from the perspective of FDA personnel. As part of the larger goal of smoothing communication between the FDA and private sector to reduce organization burden on both ends, this workshop will first introduce how the cloud computing platform Seven Bridges can package BioCompute Objects (BCOs) for workflow capture and reproducibility. Following the introduction, we will describe several  previously observed use cases to solicit feedback on their relevance to attendees, potentially from image processing (for diagnosis), machine-learning (for communicating and exchanging models with training data), and/or multi-modal data applications. Agenda can be found on the registration page.
 
-
+<b>Speaker</b>: Dr. Dennis A. Dean, II is a Principal Investigator at Seven Bridges. He manages and builds interdisciplinary teams that develop complex tools and conduct data analyses from conception to deployment/completion. He leads the Translational Science and Analytics Team that includes data scientists, bioinformaticians, and genomic data scientists. He is responsible for the success of his team members across commercial, government, and internal projects. He leads collaborations with the U.S. Food and Drug Administration (FDA), the U.S. Department of Veteran Affairs Million Veteran Program (MVP) and collaborates with large pharmaceutical companies. Dr. Dean trained as a research fellow in medicine at the Harvard Medical School and Brigham and Women’s Hospital in the Program for Sleep Epidemiology and the Program for Sleep and Cardiovascular Medicine. He earned his Ph.D. in biomedical engineering and biotechnology and M.S. in computer science from the University of Massachusetts. He earned his B.S. in computer science from SUNY, Empire State College.
+	
+<br>	
+	
 <h2>Previous Workshops</h2>
 <h3>2021</h3>
 <h4><a name="5-12-21"></a>Workflow Preservation and Reproducibility with BCO-RO</h4>
