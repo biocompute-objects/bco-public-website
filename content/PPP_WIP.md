@@ -12,9 +12,11 @@ menu: "main"
 ### BioCompute PPP
 The BioCompute Public Private Partnership (PPP) is comprised of several groups and individuals from regulatory, academia, and private industry that have contributed to the concept, development, testing, and/or feedback of the BioCompute project. The first formal structure to take shape is the Public Private Partnership, which focuses on the application of the IEEE standard. (Note that the PPP is not responsible for the development of the IEEE standard. The standard was developed by the P2791 Working Group, and the difference between these two is explained [here](/organization).
 
+### Leadership
+
 The BioCompute Public Private Partnership is the nexus of many fields with interests in the communication bioinformatic workflow analysis. Leadership for the Public Private Partnership consists of an Executive Steering Committee and a Technical Steering Committee. The idea of forming a grassroots community working with the BioCompute Standard (IEEE-2791) was the brainchild of Raja Mazumder (GW)) and Vahan Simonyan(FDA).
 
-<h3>Mission:</h3>
+### Mission
 
 The mission of the Public Private Partnership is to:
  - Develop a community of stakeholders with interests in creating a versatile data harmonization framework that allows the standardized definition of platform-independent bioinformatics pipelines for execution, and is easily read by humans and machines.
@@ -22,7 +24,7 @@ The mission of the Public Private Partnership is to:
  - Facilitate portability of pipelines for execution.
  
 
-<h3>How to Join</h3>
+### How to Join
 
 For membership inquiries, please contact Jonathon Keeney. For membership, please register [here](https://www.biocomputeobject.org/ppp_registration/).
 
