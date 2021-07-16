@@ -34,8 +34,8 @@ Members of the PPP are provided the following services:
 
 ### How to Join
 
-For membership inquiries, please contact Jonathon Keeney. For membership, please register [here](https://www.biocomputeobject.org/ppp_registration/).
-
+For membership inquiries, please contact Jonathon Keeney. For membership, please register <b>[here](https://www.biocomputeobject.org/ppp_registration/).</b>
+ 
 ### Current members
 
 | Argentys | Millipore Sigma | Open Health Systems Laboratory (OHSL)|
