@@ -12,6 +12,9 @@ menu: "main"
 Welcome! This is the BioCompute Events page. 2020 workshops are listed on the schedule below. For any questions, comments, or for a BioCompute Informational Session (15 minute WebEx) click [here](/contact)
 
 <br>
+Table of Contents
+<a href="#11-20-20">11-20-20</a> <br>
+
 
 <div class="row" >
 
